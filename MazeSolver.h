@@ -15,7 +15,7 @@
 #include <string.h>
 
 // Uncomment for a cool display
-#define SHOWOFF
+//#define SHOWOFF
 static int SPEED = 100000; // higher is slower (microseconds)
 
 typedef struct _pos {
@@ -447,6 +447,25 @@ void run_path(movement_t * path, int pathlen)
   }
 }
 
+static int isInteresting(pos_t pos)
+{
+  int j;
+  movement_t lookups[5] = { UP, DOWN, LEFT, RIGHT, NONE };
+
+  // only decide to visit it if there is some benefit to us
+  for(j = 0; j < 5; j++) {
+    pos_t interesting = mov2pos_rc(lookups[j], pos.r, pos.c);
+    struct tile * t = &ourMaze[interesting.r][interesting.c];
+
+    // interesting is defined as unexplored or a KEY
+    if(t->value == -1 || t->value == KEY)
+      return 1;
+  }
+
+  // no reason to go there
+  return 0;
+}
+
 static void solveMaze() {
   init();
 
@@ -484,6 +503,9 @@ static void solveMaze() {
       if(!canmovehere(pos))
         continue;
 
+      if(!isInteresting(pos))
+        continue;
+
       // we have a direction already, but prioritize keys
       if(dir != NONE && v != KEY)
         continue;
@@ -518,7 +540,7 @@ static void solveMaze() {
         for(i = 0; i < 4; i++) {
           pos_t neighbor = mov2pos_rc(lookups[i], next.r, next.c);
 
-          if(canmovehere(neighbor))
+          if(canmovehere(neighbor) && isInteresting(neighbor))
           {
             //printf("Can move to <%d, %d>\n", neighbor.r, neighbor.c);
             break;

@@ -1,5 +1,5 @@
 #!/bin/sh
-for t in Test*; do
+for t in original_tests/Test*; do
   echo "Running maze $t..."
   ./maze "$t"
   echo
