@@ -1,0 +1,5128 @@
+gcc *.c -o maze
+./run-all.sh
+Running maze Test case 0...
+Moved to <1, 4>
+Moved to <1, 3>
+Moved to <1, 2>
+Moved to <1, 1>
+Congratulations! You have found a key! You now have 1/1 keys!
+Moved to <1, 0>
+Heading to the exit!
+Found path from <1, 0> to <1, 5> of length 5
+Moved to <1, 1>
+Moved to <1, 2>
+Moved to <1, 3>
+Moved to <1, 4>
+Moved to <1, 5>
+000000
+111112
+000000
+------
+You solved the maze in 9 steps!
+
+Running maze Test case 1...
+Moved to <1, 1>
+Moved to <1, 2>
+Moved to <1, 3>
+Moved to <1, 4>
+Moved to <1, 5>
+Moved to <1, 6>
+Moved to <1, 7>
+Moved to <1, 8>
+Moved to <1, 9>
+Moved to <1, 10>
+Moved to <1, 11>
+Moved to <1, 12>
+Moved to <1, 13>
+Moved to <1, 14>
+Moved to <1, 15>
+Moved to <1, 16>
+Moved to <1, 17>
+Heading to the exit!
+Found path from <1, 17> to <2, 17> of length 1
+Moved to <2, 17>
+0000000000000000000
+0111111111111111110
+0111111111111111120
+-------------------
+You solved the maze in 17 steps!
+
+Running maze Test case 10...
+Moved to <1, 12>
+Moved to <1, 13>
+Moved to <1, 14>
+Moved to <1, 15>
+Moved to <1, 16>
+Moved to <1, 17>
+Moved to <1, 18>
+Moved to <1, 19>
+Moved to <2, 19>
+Moved to <2, 18>
+Moved to <2, 17>
+Moved to <2, 16>
+Moved to <2, 15>
+Moved to <2, 14>
+Moved to <2, 13>
+Moved to <2, 12>
+Moved to <2, 11>
+Moved to <2, 10>
+Moved to <1, 10>
+Moved to <1, 11>
+Unable to move from <1, 11>
+Can move to <3, 10>
+Found path from <1, 11> to <2, 10> of length 2
+Moved to <2, 11>
+Moved to <2, 10>
+Moved to <3, 10>
+Moved to <3, 11>
+Moved to <3, 12>
+Moved to <3, 13>
+Moved to <3, 14>
+Moved to <3, 15>
+Moved to <3, 16>
+Moved to <3, 17>
+Moved to <3, 18>
+Moved to <3, 19>
+Moved to <4, 19>
+Moved to <4, 18>
+Moved to <4, 17>
+Moved to <4, 16>
+Moved to <4, 15>
+Moved to <4, 14>
+Moved to <4, 13>
+Moved to <4, 12>
+Moved to <4, 11>
+Moved to <4, 10>
+Moved to <5, 10>
+Moved to <5, 11>
+Moved to <5, 12>
+Moved to <5, 13>
+Moved to <5, 14>
+Moved to <5, 15>
+Moved to <5, 16>
+Moved to <5, 17>
+Moved to <5, 18>
+Moved to <5, 19>
+Moved to <6, 19>
+Moved to <6, 20>
+Moved to <6, 21>
+Moved to <6, 22>
+Moved to <6, 23>
+Moved to <6, 24>
+Moved to <6, 25>
+Moved to <6, 26>
+Moved to <6, 27>
+Moved to <6, 28>
+Moved to <6, 29>
+Moved to <6, 30>
+Moved to <6, 31>
+Moved to <6, 32>
+Moved to <6, 33>
+Moved to <6, 34>
+Moved to <6, 35>
+Moved to <6, 36>
+Moved to <6, 37>
+Moved to <6, 38>
+Moved to <6, 39>
+Moved to <6, 40>
+Moved to <6, 41>
+Moved to <6, 42>
+Moved to <6, 43>
+Moved to <6, 44>
+Moved to <6, 45>
+Moved to <6, 46>
+Moved to <6, 47>
+Moved to <6, 48>
+Moved to <6, 49>
+Moved to <6, 50>
+Moved to <6, 51>
+Moved to <6, 52>
+Moved to <6, 53>
+Moved to <6, 54>
+Moved to <5, 54>
+Moved to <5, 53>
+Moved to <5, 52>
+Moved to <5, 51>
+Moved to <5, 50>
+Moved to <5, 49>
+Moved to <5, 48>
+Moved to <5, 47>
+Moved to <5, 46>
+Moved to <5, 45>
+Moved to <4, 45>
+Moved to <4, 46>
+Moved to <4, 47>
+Moved to <4, 48>
+Moved to <4, 49>
+Congratulations! You have found a key! You now have 1/2 keys!
+Moved to <3, 49>
+Moved to <3, 50>
+Moved to <3, 51>
+Moved to <3, 52>
+Moved to <3, 53>
+Moved to <3, 54>
+Moved to <2, 54>
+Moved to <2, 53>
+Moved to <2, 52>
+Moved to <2, 51>
+Moved to <2, 50>
+Moved to <2, 49>
+Moved to <2, 48>
+Moved to <2, 47>
+Moved to <2, 46>
+Moved to <2, 45>
+Moved to <1, 45>
+Moved to <1, 46>
+Moved to <1, 47>
+Moved to <1, 48>
+Moved to <1, 49>
+Moved to <1, 50>
+Moved to <1, 51>
+Moved to <1, 52>
+Moved to <1, 53>
+Moved to <1, 54>
+Unable to move from <1, 54>
+Can move to <3, 45>
+Found path from <1, 54> to <2, 45> of length 10
+Moved to <2, 54>
+Moved to <2, 53>
+Moved to <2, 52>
+Moved to <2, 51>
+Moved to <2, 50>
+Moved to <2, 49>
+Moved to <2, 48>
+Moved to <2, 47>
+Moved to <2, 46>
+Moved to <2, 45>
+Moved to <3, 45>
+Moved to <3, 46>
+Moved to <3, 47>
+Moved to <3, 48>
+Unable to move from <3, 48>
+Can move to <4, 54>
+Found path from <3, 48> to <3, 54> of length 6
+Moved to <3, 49>
+Moved to <3, 50>
+Moved to <3, 51>
+Moved to <3, 52>
+Moved to <3, 53>
+Moved to <3, 54>
+Moved to <4, 54>
+Moved to <4, 53>
+Moved to <4, 52>
+Moved to <4, 51>
+Moved to <4, 50>
+Unable to move from <4, 50>
+Can move to <7, 31>
+Found path from <4, 50> to <6, 31> of length 21
+Moved to <5, 50>
+Moved to <6, 50>
+Moved to <6, 49>
+Moved to <6, 48>
+Moved to <6, 47>
+Moved to <6, 46>
+Moved to <6, 45>
+Moved to <6, 44>
+Moved to <6, 43>
+Moved to <6, 42>
+Moved to <6, 41>
+Moved to <6, 40>
+Moved to <6, 39>
+Moved to <6, 38>
+Moved to <6, 37>
+Moved to <6, 36>
+Moved to <6, 35>
+Moved to <6, 34>
+Moved to <6, 33>
+Moved to <6, 32>
+Moved to <6, 31>
+Moved to <7, 31>
+Moved to <8, 31>
+Moved to <9, 31>
+Moved to <10, 31>
+Moved to <11, 31>
+Moved to <12, 31>
+Moved to <13, 31>
+Moved to <14, 31>
+Moved to <14, 32>
+Moved to <14, 33>
+Moved to <14, 34>
+Moved to <14, 35>
+Moved to <14, 36>
+Moved to <14, 37>
+Moved to <14, 38>
+Moved to <14, 39>
+Moved to <14, 40>
+Moved to <14, 41>
+Moved to <14, 42>
+Moved to <14, 43>
+Moved to <14, 44>
+Moved to <14, 45>
+Moved to <14, 46>
+Moved to <14, 47>
+Moved to <14, 48>
+Moved to <14, 49>
+Moved to <14, 50>
+Moved to <14, 51>
+Moved to <14, 52>
+Moved to <14, 53>
+Moved to <14, 54>
+Moved to <15, 54>
+Moved to <15, 53>
+Moved to <15, 52>
+Moved to <15, 51>
+Moved to <15, 50>
+Moved to <15, 49>
+Moved to <15, 48>
+Moved to <15, 47>
+Moved to <15, 46>
+Moved to <15, 45>
+Moved to <16, 45>
+Moved to <16, 46>
+Moved to <16, 47>
+Moved to <16, 48>
+Moved to <16, 49>
+Congratulations! You have found a key! You now have 2/2 keys!
+Moved to <17, 49>
+Moved to <17, 50>
+Moved to <17, 51>
+Moved to <17, 52>
+Moved to <17, 53>
+Moved to <17, 54>
+Moved to <16, 54>
+Moved to <16, 53>
+Moved to <16, 52>
+Moved to <16, 51>
+Moved to <16, 50>
+Unable to move from <16, 50>
+Can move to <18, 54>
+Found path from <16, 50> to <17, 54> of length 5
+Moved to <17, 50>
+Moved to <17, 51>
+Moved to <17, 52>
+Moved to <17, 53>
+Moved to <17, 54>
+Moved to <18, 54>
+Moved to <18, 53>
+Moved to <18, 52>
+Moved to <18, 51>
+Moved to <18, 50>
+Moved to <18, 49>
+Moved to <18, 48>
+Moved to <18, 47>
+Moved to <18, 46>
+Moved to <18, 45>
+Moved to <17, 45>
+Moved to <17, 46>
+Moved to <17, 47>
+Moved to <17, 48>
+Unable to move from <17, 48>
+Can move to <19, 45>
+Found path from <17, 48> to <18, 45> of length 4
+Moved to <18, 48>
+Moved to <18, 47>
+Moved to <18, 46>
+Moved to <18, 45>
+Moved to <19, 45>
+Moved to <19, 46>
+Moved to <19, 47>
+Moved to <19, 48>
+Moved to <19, 49>
+Moved to <19, 50>
+Moved to <19, 51>
+Moved to <19, 52>
+Moved to <19, 53>
+Moved to <19, 54>
+Moved to <20, 54>
+Moved to <20, 53>
+Moved to <20, 52>
+Moved to <20, 51>
+Moved to <20, 50>
+Moved to <20, 49>
+Moved to <20, 48>
+Moved to <20, 47>
+Moved to <20, 46>
+Moved to <20, 45>
+Unable to move from <20, 45>
+Can move to <14, 30>
+Found path from <20, 45> to <14, 31> of length 20
+Moved to <19, 45>
+Moved to <18, 45>
+Moved to <17, 45>
+Moved to <16, 45>
+Moved to <15, 45>
+Moved to <14, 45>
+Moved to <14, 44>
+Moved to <14, 43>
+Moved to <14, 42>
+Moved to <14, 41>
+Moved to <14, 40>
+Moved to <14, 39>
+Moved to <14, 38>
+Moved to <14, 37>
+Moved to <14, 36>
+Moved to <14, 35>
+Moved to <14, 34>
+Moved to <14, 33>
+Moved to <14, 32>
+Moved to <14, 31>
+Moved to <14, 30>
+Moved to <14, 29>
+Moved to <14, 28>
+Moved to <14, 27>
+Moved to <14, 26>
+Moved to <14, 25>
+Moved to <14, 24>
+Moved to <14, 23>
+Moved to <14, 22>
+Moved to <14, 21>
+Moved to <14, 20>
+Moved to <14, 19>
+Moved to <14, 18>
+Moved to <14, 17>
+Moved to <14, 16>
+Moved to <14, 15>
+Moved to <14, 14>
+Moved to <14, 13>
+Moved to <14, 12>
+Moved to <14, 11>
+Moved to <14, 10>
+Moved to <15, 10>
+Moved to <15, 11>
+Moved to <15, 12>
+Moved to <15, 13>
+Moved to <15, 14>
+Moved to <15, 15>
+Moved to <15, 16>
+Moved to <15, 17>
+Moved to <15, 18>
+Moved to <15, 19>
+Moved to <16, 19>
+Moved to <16, 18>
+Moved to <16, 17>
+Moved to <16, 16>
+Moved to <16, 15>
+Moved to <16, 14>
+Heading to the exit!
+Found path from <16, 14> to <17, 14> of length 1
+Moved to <17, 14>
+0000000000000000000000000000000000000000000000000000000000000000
+0000000000111111111100000000000000000000000001111111111000000000
+0000000000111111111100000000000000000000000001111111111000000000
+0000000000111111111100000000000000000000000001111111111000000000
+0000000000111111111100000000000000000000000001111111111000000000
+0000000000111111111100000000000000000000000001111111111000000000
+0000000000111111111111111111111111111111111111111111111000000000
+0000000000000000000000000000000100000000000000000000000000000000
+0000000000000000000000000000000100000000000000000000000000000000
+0000000000000000000000000000000100000000000000000000000000000000
+0000000000000000000000000000000100000000000000000000000000000000
+0000000000000000000000000000000100000000000000000000000000000000
+0000000000000000000000000000000100000000000000000000000000000000
+0000000000000000000000000000000100000000000000000000000000000000
+0000000000111111111111111111111111111111111111111111111000000000
+0000000000111111111100000000000000000000000001111111111000000000
+0000000000111111111100000000000000000000000001111111111000000000
+0000000000111121111100000000000000000000000001111111111000000000
+0000000000111111111100000000000000000000000001111111111000000000
+0000000000111111111100000000000000000000000001111111111000000000
+0000000000111111111100000000000000000000000001111111111000000000
+----------------------------------------------------------------
+You solved the maze in 332 steps!
+
+Running maze Test case 11...
+Moved to <1, 1>
+Moved to <2, 1>
+Moved to <3, 1>
+Moved to <4, 1>
+Moved to <5, 1>
+Moved to <6, 1>
+Moved to <7, 1>
+Moved to <8, 1>
+Moved to <8, 2>
+Moved to <8, 3>
+Moved to <8, 4>
+Moved to <8, 5>
+Moved to <8, 6>
+Moved to <8, 7>
+Moved to <8, 8>
+Moved to <8, 9>
+Moved to <8, 10>
+Moved to <8, 11>
+Moved to <8, 12>
+Moved to <8, 13>
+Moved to <8, 14>
+Moved to <8, 15>
+Moved to <8, 16>
+Moved to <8, 17>
+Moved to <7, 17>
+Moved to <6, 17>
+Moved to <5, 17>
+Moved to <4, 17>
+Moved to <3, 17>
+Moved to <3, 16>
+Moved to <3, 15>
+Moved to <3, 14>
+Moved to <3, 13>
+Moved to <3, 12>
+Congratulations! You have found a key! You now have 1/4 keys!
+Moved to <3, 11>
+Unable to move from <3, 11>
+Can move to <2, 17>
+Found path from <3, 11> to <3, 17> of length 6
+Moved to <3, 12>
+Moved to <3, 13>
+Moved to <3, 14>
+Moved to <3, 15>
+Moved to <3, 16>
+Moved to <3, 17>
+Moved to <2, 17>
+Moved to <1, 17>
+Moved to <1, 16>
+Moved to <1, 15>
+Moved to <1, 14>
+Moved to <1, 13>
+Moved to <1, 12>
+Moved to <1, 11>
+Moved to <1, 10>
+Moved to <1, 9>
+Moved to <1, 8>
+Moved to <1, 7>
+Moved to <1, 6>
+Moved to <1, 5>
+Moved to <1, 4>
+Moved to <1, 3>
+Moved to <2, 3>
+Moved to <3, 3>
+Moved to <4, 3>
+Moved to <5, 3>
+Unable to move from <5, 3>
+Can move to <2, 5>
+Found path from <5, 3> to <1, 5> of length 6
+Moved to <4, 3>
+Moved to <3, 3>
+Moved to <2, 3>
+Moved to <1, 3>
+Moved to <1, 4>
+Moved to <1, 5>
+Moved to <2, 5>
+Moved to <3, 5>
+Moved to <4, 5>
+Moved to <5, 5>
+Congratulations! You have found a key! You now have 2/4 keys!
+Moved to <6, 5>
+Unable to move from <6, 5>
+Can move to <7, 7>
+Found path from <6, 5> to <8, 7> of length 34
+Moved to <5, 5>
+Moved to <4, 5>
+Moved to <3, 5>
+Moved to <2, 5>
+Moved to <1, 5>
+Moved to <1, 6>
+Moved to <1, 7>
+Moved to <1, 8>
+Moved to <1, 9>
+Moved to <1, 10>
+Moved to <1, 11>
+Moved to <1, 12>
+Moved to <1, 13>
+Moved to <1, 14>
+Moved to <1, 15>
+Moved to <1, 16>
+Moved to <1, 17>
+Moved to <2, 17>
+Moved to <3, 17>
+Moved to <4, 17>
+Moved to <5, 17>
+Moved to <6, 17>
+Moved to <7, 17>
+Moved to <8, 17>
+Moved to <8, 16>
+Moved to <8, 15>
+Moved to <8, 14>
+Moved to <8, 13>
+Moved to <8, 12>
+Moved to <8, 11>
+Moved to <8, 10>
+Moved to <8, 9>
+Moved to <8, 8>
+Moved to <8, 7>
+Moved to <7, 7>
+Moved to <6, 7>
+Moved to <6, 8>
+Moved to <6, 9>
+Moved to <6, 10>
+Moved to <6, 11>
+Moved to <6, 12>
+Moved to <6, 13>
+Congratulations! You have found a key! You now have 3/4 keys!
+Moved to <6, 14>
+Unable to move from <6, 14>
+Can move to <5, 7>
+Found path from <6, 14> to <6, 7> of length 7
+Moved to <6, 13>
+Moved to <6, 12>
+Moved to <6, 11>
+Moved to <6, 10>
+Moved to <6, 9>
+Moved to <6, 8>
+Moved to <6, 7>
+Moved to <5, 7>
+Moved to <4, 7>
+Congratulations! You have found a key! You now have 4/4 keys!
+Moved to <3, 7>
+Heading to the exit!
+Found path from <3, 7> to <6, 3> of length 41
+Moved to <4, 7>
+Moved to <5, 7>
+Moved to <6, 7>
+Moved to <7, 7>
+Moved to <8, 7>
+Moved to <8, 8>
+Moved to <8, 9>
+Moved to <8, 10>
+Moved to <8, 11>
+Moved to <8, 12>
+Moved to <8, 13>
+Moved to <8, 14>
+Moved to <8, 15>
+Moved to <8, 16>
+Moved to <8, 17>
+Moved to <7, 17>
+Moved to <6, 17>
+Moved to <5, 17>
+Moved to <4, 17>
+Moved to <3, 17>
+Moved to <2, 17>
+Moved to <1, 17>
+Moved to <1, 16>
+Moved to <1, 15>
+Moved to <1, 14>
+Moved to <1, 13>
+Moved to <1, 12>
+Moved to <1, 11>
+Moved to <1, 10>
+Moved to <1, 9>
+Moved to <1, 8>
+Moved to <1, 7>
+Moved to <1, 6>
+Moved to <1, 5>
+Moved to <1, 4>
+Moved to <1, 3>
+Moved to <2, 3>
+Moved to <3, 3>
+Moved to <4, 3>
+Moved to <5, 3>
+Moved to <6, 3>
+00000000000000000000
+01011111111111111100
+01010100000000000100
+01010101000111111100
+01010101000000000100
+01010101000000000100
+01020101111111100100
+01000001000000000100
+01111111111111111100
+--------------------
+You solved the maze in 165 steps!
+
+Running maze Test case 2...
+Moved to <2, 6>
+Moved to <2, 7>
+Moved to <2, 8>
+Moved to <2, 9>
+Moved to <2, 10>
+Moved to <2, 11>
+Moved to <2, 12>
+Moved to <2, 13>
+Moved to <2, 14>
+Moved to <2, 15>
+Moved to <2, 16>
+Moved to <2, 17>
+Moved to <2, 18>
+Moved to <2, 19>
+Moved to <2, 20>
+Moved to <1, 20>
+Moved to <1, 19>
+Moved to <1, 18>
+Moved to <1, 17>
+Moved to <1, 16>
+Moved to <1, 15>
+Moved to <1, 14>
+Moved to <1, 13>
+Moved to <1, 12>
+Moved to <1, 11>
+Moved to <1, 10>
+Moved to <1, 9>
+Moved to <1, 8>
+Moved to <1, 7>
+Moved to <1, 6>
+Moved to <1, 5>
+Moved to <1, 4>
+Moved to <1, 3>
+Moved to <2, 3>
+Moved to <2, 4>
+Moved to <2, 5>
+Moved to <3, 5>
+Moved to <3, 6>
+Moved to <3, 7>
+Moved to <3, 8>
+Moved to <3, 9>
+Moved to <3, 10>
+Moved to <3, 11>
+Moved to <3, 12>
+Moved to <3, 13>
+Moved to <3, 14>
+Moved to <3, 15>
+Moved to <3, 16>
+Moved to <3, 17>
+Moved to <3, 18>
+Moved to <3, 19>
+Moved to <3, 20>
+Moved to <4, 20>
+Moved to <4, 19>
+Moved to <4, 18>
+Moved to <4, 17>
+Congratulations! You have found a key! You now have 1/1 keys!
+Moved to <5, 17>
+Moved to <5, 18>
+Moved to <5, 19>
+Moved to <5, 20>
+Moved to <6, 20>
+Moved to <6, 19>
+Moved to <6, 18>
+Moved to <6, 17>
+Moved to <6, 16>
+Moved to <6, 15>
+Moved to <6, 14>
+Moved to <6, 13>
+Moved to <6, 12>
+Moved to <6, 11>
+Moved to <6, 10>
+Moved to <6, 9>
+Moved to <6, 8>
+Moved to <6, 7>
+Moved to <6, 6>
+Moved to <6, 5>
+Moved to <6, 4>
+Moved to <6, 3>
+Moved to <5, 3>
+Moved to <5, 4>
+Moved to <5, 5>
+Moved to <5, 6>
+Moved to <5, 7>
+Moved to <5, 8>
+Moved to <5, 9>
+Moved to <5, 10>
+Moved to <5, 11>
+Moved to <5, 12>
+Moved to <5, 13>
+Moved to <5, 14>
+Moved to <5, 15>
+Moved to <5, 16>
+Moved to <4, 16>
+Moved to <4, 15>
+Moved to <4, 14>
+Moved to <4, 13>
+Moved to <4, 12>
+Moved to <4, 11>
+Moved to <4, 10>
+Moved to <4, 9>
+Moved to <4, 8>
+Moved to <4, 7>
+Moved to <4, 6>
+Moved to <4, 5>
+Moved to <4, 4>
+Moved to <4, 3>
+Moved to <3, 3>
+Moved to <3, 4>
+Unable to move from <3, 4>
+Can move to <7, 3>
+Found path from <3, 4> to <6, 3> of length 4
+Moved to <4, 4>
+Moved to <5, 4>
+Moved to <6, 4>
+Moved to <6, 3>
+Moved to <7, 3>
+Moved to <7, 4>
+Moved to <7, 5>
+Moved to <7, 6>
+Moved to <7, 7>
+Moved to <7, 8>
+Moved to <7, 9>
+Moved to <7, 10>
+Moved to <7, 11>
+Moved to <7, 12>
+Moved to <7, 13>
+Moved to <7, 14>
+Moved to <7, 15>
+Moved to <7, 16>
+Moved to <7, 17>
+Moved to <7, 18>
+Moved to <7, 19>
+Moved to <7, 20>
+Moved to <8, 20>
+Moved to <8, 19>
+Moved to <8, 18>
+Moved to <8, 17>
+Moved to <8, 16>
+Moved to <8, 15>
+Moved to <8, 14>
+Moved to <8, 13>
+Moved to <8, 12>
+Moved to <8, 11>
+Moved to <8, 10>
+Moved to <8, 9>
+Moved to <8, 8>
+Moved to <8, 7>
+Moved to <8, 6>
+Moved to <8, 5>
+Moved to <8, 4>
+Moved to <8, 3>
+Moved to <9, 3>
+Moved to <9, 4>
+Moved to <9, 5>
+Moved to <9, 6>
+Moved to <9, 7>
+Moved to <9, 8>
+Moved to <9, 9>
+Moved to <9, 10>
+Moved to <9, 11>
+Moved to <9, 12>
+Moved to <9, 13>
+Moved to <9, 14>
+Moved to <9, 15>
+Moved to <9, 16>
+Moved to <9, 17>
+Moved to <9, 18>
+Moved to <9, 19>
+Moved to <9, 20>
+Moved to <10, 20>
+Moved to <10, 19>
+Moved to <10, 18>
+Moved to <10, 17>
+Moved to <10, 16>
+Moved to <10, 15>
+Moved to <10, 14>
+Moved to <10, 13>
+Moved to <10, 12>
+Moved to <10, 11>
+Moved to <10, 10>
+Moved to <10, 9>
+Moved to <10, 8>
+Moved to <10, 7>
+Moved to <10, 6>
+Moved to <10, 5>
+Moved to <10, 4>
+Moved to <10, 3>
+Moved to <11, 3>
+Moved to <11, 4>
+Moved to <11, 5>
+Moved to <11, 6>
+Heading to the exit!
+Found path from <11, 6> to <12, 6> of length 1
+Moved to <12, 6>
+000000000000000000000000
+000111111111111111111000
+000111111111111111111000
+000111111111111111111000
+000111111111111111111000
+000111111111111111111000
+000111111111111111111000
+000111111111111111111000
+000111111111111111111000
+000111111111111111111000
+000111111111111111111000
+000111111111111111111000
+000111211111111111111000
+000111111111111111111000
+------------------------
+You solved the maze in 188 steps!
+
+Running maze Test case 3...
+Moved to <1, 1>
+Moved to <2, 1>
+Moved to <3, 1>
+Moved to <4, 1>
+Moved to <4, 2>
+Moved to <4, 3>
+Moved to <3, 3>
+Moved to <2, 3>
+Moved to <1, 3>
+Moved to <1, 4>
+Moved to <1, 5>
+Moved to <1, 6>
+Moved to <1, 7>
+Moved to <2, 7>
+Moved to <3, 7>
+Moved to <4, 7>
+Moved to <4, 8>
+Moved to <4, 9>
+Moved to <3, 9>
+Moved to <2, 9>
+Moved to <1, 9>
+Moved to <1, 10>
+Moved to <1, 11>
+Moved to <2, 11>
+Moved to <3, 11>
+Moved to <4, 11>
+Moved to <4, 12>
+Moved to <4, 13>
+Moved to <3, 13>
+Moved to <2, 13>
+Moved to <1, 13>
+Moved to <1, 14>
+Moved to <1, 15>
+Moved to <1, 16>
+Moved to <1, 17>
+Heading to the exit!
+Found path from <1, 17> to <1, 18> of length 1
+Moved to <1, 18>
+00000000000000000000
+01011111011101111120
+01010101010101010000
+01010101010101010000
+01110101110111010000
+--------------------
+You solved the maze in 35 steps!
+
+Running maze Test case 4...
+Moved to <28, 21>
+Moved to <27, 21>
+Moved to <27, 22>
+Moved to <27, 23>
+Moved to <27, 24>
+Moved to <27, 25>
+Moved to <27, 26>
+Moved to <27, 27>
+Moved to <27, 28>
+Moved to <28, 28>
+Unable to move from <28, 28>
+Can move to <26, 26>
+Found path from <28, 28> to <27, 26> of length 3
+Moved to <27, 28>
+Moved to <27, 27>
+Moved to <27, 26>
+Moved to <26, 26>
+Moved to <25, 26>
+Moved to <25, 27>
+Moved to <25, 28>
+Unable to move from <25, 28>
+Can move to <24, 27>
+Found path from <25, 28> to <25, 27> of length 1
+Moved to <25, 27>
+Moved to <24, 27>
+Moved to <23, 27>
+Congratulations! You have found a key! You now have 1/17 keys!
+Moved to <23, 26>
+Moved to <23, 25>
+Congratulations! You have found a key! You now have 2/17 keys!
+Moved to <23, 24>
+Moved to <23, 23>
+Moved to <23, 22>
+Moved to <23, 21>
+Moved to <23, 20>
+Moved to <23, 19>
+Moved to <23, 18>
+Moved to <23, 17>
+Moved to <23, 16>
+Moved to <23, 15>
+Moved to <23, 14>
+Moved to <23, 13>
+Moved to <23, 12>
+Moved to <23, 11>
+Moved to <23, 10>
+Moved to <23, 9>
+Moved to <23, 8>
+Moved to <23, 7>
+Moved to <23, 6>
+Moved to <23, 5>
+Congratulations! You have found a key! You now have 3/17 keys!
+Moved to <22, 5>
+Moved to <22, 6>
+Moved to <22, 7>
+Moved to <22, 8>
+Moved to <22, 9>
+Moved to <22, 10>
+Moved to <22, 11>
+Moved to <22, 12>
+Moved to <22, 13>
+Moved to <22, 14>
+Moved to <22, 15>
+Moved to <22, 16>
+Moved to <22, 17>
+Moved to <22, 18>
+Moved to <22, 19>
+Moved to <22, 20>
+Moved to <22, 21>
+Moved to <22, 22>
+Moved to <22, 23>
+Moved to <22, 24>
+Moved to <22, 25>
+Moved to <22, 26>
+Moved to <22, 27>
+Congratulations! You have found a key! You now have 4/17 keys!
+Moved to <22, 28>
+Congratulations! You have found a key! You now have 5/17 keys!
+Moved to <23, 28>
+Unable to move from <23, 28>
+Can move to <21, 28>
+Found path from <23, 28> to <22, 28> of length 1
+Moved to <22, 28>
+Moved to <21, 28>
+Moved to <21, 27>
+Moved to <21, 26>
+Moved to <21, 25>
+Moved to <21, 24>
+Moved to <21, 23>
+Moved to <21, 22>
+Moved to <21, 21>
+Moved to <21, 20>
+Moved to <21, 19>
+Moved to <21, 18>
+Moved to <21, 17>
+Moved to <21, 16>
+Moved to <21, 15>
+Moved to <21, 14>
+Moved to <21, 13>
+Moved to <21, 12>
+Moved to <21, 11>
+Moved to <21, 10>
+Moved to <21, 9>
+Moved to <21, 8>
+Moved to <21, 7>
+Moved to <21, 6>
+Moved to <21, 5>
+Moved to <21, 4>
+Moved to <21, 3>
+Congratulations! You have found a key! You now have 6/17 keys!
+Moved to <22, 3>
+Moved to <22, 4>
+Moved to <23, 4>
+Moved to <23, 3>
+Moved to <23, 2>
+Moved to <23, 1>
+Congratulations! You have found a key! You now have 7/17 keys!
+Moved to <22, 1>
+Moved to <22, 2>
+Moved to <21, 2>
+Moved to <21, 1>
+Moved to <20, 1>
+Moved to <19, 1>
+Moved to <19, 2>
+Moved to <19, 3>
+Moved to <19, 4>
+Moved to <19, 5>
+Moved to <19, 6>
+Moved to <19, 7>
+Moved to <19, 8>
+Moved to <19, 9>
+Moved to <19, 10>
+Moved to <19, 11>
+Moved to <19, 12>
+Moved to <19, 13>
+Moved to <19, 14>
+Moved to <19, 15>
+Moved to <19, 16>
+Moved to <19, 17>
+Moved to <19, 18>
+Moved to <19, 19>
+Moved to <19, 20>
+Moved to <19, 21>
+Moved to <19, 22>
+Moved to <19, 23>
+Moved to <19, 24>
+Moved to <19, 25>
+Moved to <19, 26>
+Moved to <19, 27>
+Moved to <19, 28>
+Moved to <18, 28>
+Moved to <18, 27>
+Moved to <18, 26>
+Moved to <18, 25>
+Moved to <18, 24>
+Moved to <18, 23>
+Moved to <18, 22>
+Moved to <18, 21>
+Moved to <18, 20>
+Moved to <18, 19>
+Moved to <18, 18>
+Moved to <18, 17>
+Moved to <18, 16>
+Moved to <18, 15>
+Moved to <18, 14>
+Moved to <18, 13>
+Moved to <18, 12>
+Moved to <18, 11>
+Moved to <18, 10>
+Moved to <18, 9>
+Moved to <18, 8>
+Moved to <18, 7>
+Moved to <18, 6>
+Moved to <18, 5>
+Moved to <18, 4>
+Moved to <18, 3>
+Moved to <18, 2>
+Moved to <18, 1>
+Unable to move from <18, 1>
+Can move to <17, 25>
+Found path from <18, 1> to <18, 25> of length 24
+Moved to <18, 2>
+Moved to <18, 3>
+Moved to <18, 4>
+Moved to <18, 5>
+Moved to <18, 6>
+Moved to <18, 7>
+Moved to <18, 8>
+Moved to <18, 9>
+Moved to <18, 10>
+Moved to <18, 11>
+Moved to <18, 12>
+Moved to <18, 13>
+Moved to <18, 14>
+Moved to <18, 15>
+Moved to <18, 16>
+Moved to <18, 17>
+Moved to <18, 18>
+Moved to <18, 19>
+Moved to <18, 20>
+Moved to <18, 21>
+Moved to <18, 22>
+Moved to <18, 23>
+Moved to <18, 24>
+Moved to <18, 25>
+Moved to <17, 25>
+Moved to <16, 25>
+Moved to <16, 26>
+Moved to <16, 27>
+Moved to <16, 28>
+Moved to <15, 28>
+Moved to <15, 27>
+Moved to <15, 26>
+Moved to <15, 25>
+Moved to <15, 24>
+Moved to <15, 23>
+Moved to <15, 22>
+Moved to <15, 21>
+Moved to <15, 20>
+Moved to <15, 19>
+Moved to <15, 18>
+Moved to <15, 17>
+Moved to <15, 16>
+Moved to <15, 15>
+Moved to <15, 14>
+Moved to <15, 13>
+Moved to <15, 12>
+Moved to <15, 11>
+Moved to <15, 10>
+Moved to <15, 9>
+Moved to <15, 8>
+Moved to <15, 7>
+Congratulations! You have found a key! You now have 8/17 keys!
+Moved to <14, 7>
+Moved to <14, 6>
+Moved to <14, 5>
+Moved to <14, 4>
+Moved to <14, 3>
+Moved to <14, 2>
+Moved to <14, 1>
+Moved to <13, 1>
+Moved to <13, 2>
+Moved to <13, 3>
+Moved to <13, 4>
+Moved to <13, 5>
+Moved to <13, 6>
+Moved to <12, 6>
+Moved to <12, 5>
+Moved to <12, 4>
+Moved to <12, 3>
+Moved to <12, 2>
+Moved to <12, 1>
+Moved to <11, 1>
+Moved to <11, 2>
+Moved to <11, 3>
+Moved to <11, 4>
+Moved to <11, 5>
+Moved to <11, 6>
+Moved to <11, 7>
+Moved to <11, 8>
+Moved to <11, 9>
+Congratulations! You have found a key! You now have 9/17 keys!
+Moved to <11, 10>
+Unable to move from <11, 10>
+Can move to <10, 6>
+Found path from <11, 10> to <11, 6> of length 4
+Moved to <11, 9>
+Moved to <11, 8>
+Moved to <11, 7>
+Moved to <11, 6>
+Moved to <10, 6>
+Moved to <10, 5>
+Moved to <10, 4>
+Moved to <10, 3>
+Moved to <10, 2>
+Moved to <10, 1>
+Moved to <9, 1>
+Moved to <9, 2>
+Moved to <9, 3>
+Moved to <9, 4>
+Moved to <9, 5>
+Moved to <9, 6>
+Moved to <9, 7>
+Moved to <9, 8>
+Moved to <9, 9>
+Moved to <9, 10>
+Moved to <9, 11>
+Moved to <9, 12>
+Moved to <9, 13>
+Moved to <9, 14>
+Moved to <9, 15>
+Moved to <9, 16>
+Moved to <9, 17>
+Moved to <9, 18>
+Moved to <9, 19>
+Moved to <9, 20>
+Moved to <9, 21>
+Moved to <9, 22>
+Moved to <9, 23>
+Moved to <9, 24>
+Moved to <9, 25>
+Moved to <9, 26>
+Moved to <9, 27>
+Moved to <9, 28>
+Moved to <8, 28>
+Moved to <8, 27>
+Moved to <8, 26>
+Moved to <8, 25>
+Moved to <8, 24>
+Moved to <8, 23>
+Moved to <8, 22>
+Moved to <8, 21>
+Moved to <8, 20>
+Moved to <8, 19>
+Moved to <8, 18>
+Moved to <8, 17>
+Moved to <8, 16>
+Moved to <8, 15>
+Moved to <8, 14>
+Moved to <8, 13>
+Moved to <8, 12>
+Moved to <8, 11>
+Moved to <8, 10>
+Moved to <8, 9>
+Moved to <8, 8>
+Moved to <8, 7>
+Moved to <8, 6>
+Moved to <8, 5>
+Moved to <8, 4>
+Moved to <8, 3>
+Moved to <8, 2>
+Moved to <8, 1>
+Unable to move from <8, 1>
+Can move to <7, 3>
+Found path from <8, 1> to <8, 3> of length 2
+Moved to <8, 2>
+Moved to <8, 3>
+Moved to <7, 3>
+Moved to <7, 4>
+Moved to <7, 5>
+Moved to <7, 6>
+Moved to <7, 7>
+Moved to <7, 8>
+Moved to <7, 9>
+Moved to <7, 10>
+Moved to <7, 11>
+Moved to <7, 12>
+Moved to <7, 13>
+Moved to <7, 14>
+Moved to <7, 15>
+Moved to <7, 16>
+Moved to <7, 17>
+Moved to <7, 18>
+Moved to <7, 19>
+Moved to <7, 20>
+Moved to <7, 21>
+Moved to <7, 22>
+Moved to <7, 23>
+Moved to <7, 24>
+Moved to <7, 25>
+Moved to <7, 26>
+Moved to <6, 26>
+Moved to <6, 27>
+Congratulations! You have found a key! You now have 10/17 keys!
+Moved to <6, 28>
+Unable to move from <6, 28>
+Can move to <6, 25>
+Found path from <6, 28> to <6, 26> of length 2
+Moved to <6, 27>
+Moved to <6, 26>
+Moved to <6, 25>
+Moved to <6, 24>
+Moved to <6, 23>
+Moved to <6, 22>
+Moved to <6, 21>
+Moved to <6, 20>
+Moved to <6, 19>
+Moved to <6, 18>
+Moved to <6, 17>
+Moved to <6, 16>
+Moved to <6, 15>
+Moved to <6, 14>
+Moved to <6, 13>
+Moved to <6, 12>
+Moved to <6, 11>
+Moved to <6, 10>
+Moved to <6, 9>
+Moved to <6, 8>
+Moved to <6, 7>
+Moved to <6, 6>
+Moved to <6, 5>
+Moved to <6, 4>
+Moved to <6, 3>
+Moved to <6, 2>
+Congratulations! You have found a key! You now have 11/17 keys!
+Moved to <6, 1>
+Unable to move from <6, 1>
+Can move to <5, 3>
+Found path from <6, 1> to <6, 3> of length 2
+Moved to <6, 2>
+Moved to <6, 3>
+Moved to <5, 3>
+Moved to <5, 4>
+Moved to <5, 5>
+Moved to <5, 6>
+Moved to <5, 7>
+Moved to <5, 8>
+Moved to <5, 9>
+Moved to <5, 10>
+Moved to <5, 11>
+Moved to <5, 12>
+Moved to <5, 13>
+Moved to <5, 14>
+Moved to <5, 15>
+Moved to <5, 16>
+Moved to <5, 17>
+Moved to <5, 18>
+Moved to <5, 19>
+Moved to <5, 20>
+Moved to <5, 21>
+Moved to <5, 22>
+Moved to <5, 23>
+Moved to <5, 24>
+Moved to <5, 25>
+Moved to <5, 26>
+Moved to <4, 26>
+Moved to <4, 27>
+Moved to <4, 28>
+Moved to <3, 28>
+Moved to <3, 27>
+Moved to <3, 26>
+Moved to <3, 25>
+Moved to <3, 24>
+Moved to <3, 23>
+Moved to <3, 22>
+Moved to <3, 21>
+Moved to <3, 20>
+Moved to <3, 19>
+Moved to <3, 18>
+Moved to <3, 17>
+Moved to <3, 16>
+Moved to <3, 15>
+Moved to <3, 14>
+Moved to <3, 13>
+Moved to <3, 12>
+Moved to <3, 11>
+Moved to <3, 10>
+Moved to <3, 9>
+Moved to <3, 8>
+Moved to <3, 7>
+Moved to <3, 6>
+Moved to <3, 5>
+Moved to <3, 4>
+Moved to <3, 3>
+Moved to <3, 2>
+Moved to <3, 1>
+Moved to <2, 1>
+Moved to <2, 2>
+Moved to <2, 3>
+Moved to <1, 3>
+Unable to move from <1, 3>
+Can move to <1, 1>
+Found path from <1, 3> to <2, 1> of length 3
+Moved to <2, 3>
+Moved to <2, 2>
+Moved to <2, 1>
+Moved to <1, 1>
+Unable to move from <1, 1>
+Can move to <4, 1>
+Found path from <1, 1> to <3, 1> of length 2
+Moved to <2, 1>
+Moved to <3, 1>
+Moved to <4, 1>
+Moved to <4, 2>
+Moved to <4, 3>
+Moved to <4, 4>
+Moved to <4, 5>
+Moved to <4, 6>
+Moved to <4, 7>
+Moved to <4, 8>
+Moved to <4, 9>
+Moved to <4, 10>
+Moved to <4, 11>
+Moved to <4, 12>
+Moved to <4, 13>
+Moved to <4, 14>
+Moved to <4, 15>
+Moved to <4, 16>
+Moved to <4, 17>
+Moved to <4, 18>
+Moved to <4, 19>
+Moved to <4, 20>
+Moved to <4, 21>
+Moved to <4, 22>
+Moved to <4, 23>
+Moved to <4, 24>
+Moved to <4, 25>
+Unable to move from <4, 25>
+Can move to <2, 5>
+Found path from <4, 25> to <3, 5> of length 21
+Moved to <3, 25>
+Moved to <3, 24>
+Moved to <3, 23>
+Moved to <3, 22>
+Moved to <3, 21>
+Moved to <3, 20>
+Moved to <3, 19>
+Moved to <3, 18>
+Moved to <3, 17>
+Moved to <3, 16>
+Moved to <3, 15>
+Moved to <3, 14>
+Moved to <3, 13>
+Moved to <3, 12>
+Moved to <3, 11>
+Moved to <3, 10>
+Moved to <3, 9>
+Moved to <3, 8>
+Moved to <3, 7>
+Moved to <3, 6>
+Moved to <3, 5>
+Moved to <2, 5>
+Moved to <2, 6>
+Moved to <2, 7>
+Moved to <2, 8>
+Moved to <2, 9>
+Moved to <1, 9>
+Unable to move from <1, 9>
+Can move to <1, 7>
+Found path from <1, 9> to <2, 7> of length 3
+Moved to <2, 9>
+Moved to <2, 8>
+Moved to <2, 7>
+Moved to <1, 7>
+Unable to move from <1, 7>
+Can move to <1, 5>
+Found path from <1, 7> to <2, 5> of length 3
+Moved to <2, 7>
+Moved to <2, 6>
+Moved to <2, 5>
+Moved to <1, 5>
+Unable to move from <1, 5>
+Can move to <2, 11>
+Found path from <1, 5> to <3, 11> of length 8
+Moved to <2, 5>
+Moved to <3, 5>
+Moved to <3, 6>
+Moved to <3, 7>
+Moved to <3, 8>
+Moved to <3, 9>
+Moved to <3, 10>
+Moved to <3, 11>
+Moved to <2, 11>
+Moved to <2, 12>
+Moved to <2, 13>
+Moved to <2, 14>
+Moved to <2, 15>
+Moved to <1, 15>
+Unable to move from <1, 15>
+Can move to <1, 13>
+Found path from <1, 15> to <2, 13> of length 3
+Moved to <2, 15>
+Moved to <2, 14>
+Moved to <2, 13>
+Moved to <1, 13>
+Unable to move from <1, 13>
+Can move to <1, 11>
+Found path from <1, 13> to <2, 11> of length 3
+Moved to <2, 13>
+Moved to <2, 12>
+Moved to <2, 11>
+Moved to <1, 11>
+Unable to move from <1, 11>
+Can move to <2, 17>
+Found path from <1, 11> to <3, 17> of length 8
+Moved to <2, 11>
+Moved to <3, 11>
+Moved to <3, 12>
+Moved to <3, 13>
+Moved to <3, 14>
+Moved to <3, 15>
+Moved to <3, 16>
+Moved to <3, 17>
+Moved to <2, 17>
+Moved to <2, 18>
+Moved to <2, 19>
+Congratulations! You have found a key! You now have 12/17 keys!
+Moved to <1, 19>
+Unable to move from <1, 19>
+Can move to <2, 20>
+Found path from <1, 19> to <2, 19> of length 1
+Moved to <2, 19>
+Moved to <2, 20>
+Moved to <2, 21>
+Moved to <1, 21>
+Unable to move from <1, 21>
+Can move to <1, 17>
+Found path from <1, 21> to <2, 17> of length 5
+Moved to <2, 21>
+Moved to <2, 20>
+Moved to <2, 19>
+Moved to <2, 18>
+Moved to <2, 17>
+Moved to <1, 17>
+Unable to move from <1, 17>
+Can move to <2, 23>
+Found path from <1, 17> to <3, 23> of length 8
+Moved to <2, 17>
+Moved to <3, 17>
+Moved to <3, 18>
+Moved to <3, 19>
+Moved to <3, 20>
+Moved to <3, 21>
+Moved to <3, 22>
+Moved to <3, 23>
+Moved to <2, 23>
+Moved to <2, 24>
+Moved to <2, 25>
+Moved to <1, 25>
+Unable to move from <1, 25>
+Can move to <1, 23>
+Found path from <1, 25> to <2, 23> of length 3
+Moved to <2, 25>
+Moved to <2, 24>
+Moved to <2, 23>
+Moved to <1, 23>
+Unable to move from <1, 23>
+Can move to <2, 27>
+Found path from <1, 23> to <3, 27> of length 6
+Moved to <2, 23>
+Moved to <3, 23>
+Moved to <3, 24>
+Moved to <3, 25>
+Moved to <3, 26>
+Moved to <3, 27>
+Moved to <2, 27>
+Moved to <2, 28>
+Moved to <1, 28>
+Moved to <1, 27>
+Unable to move from <1, 27>
+Can move to <10, 28>
+Found path from <1, 27> to <9, 28> of length 11
+Moved to <2, 27>
+Moved to <3, 27>
+Moved to <4, 27>
+Moved to <4, 26>
+Moved to <5, 26>
+Moved to <6, 26>
+Moved to <7, 26>
+Moved to <8, 26>
+Moved to <9, 26>
+Moved to <9, 27>
+Moved to <9, 28>
+Moved to <10, 28>
+Moved to <10, 27>
+Moved to <10, 26>
+Moved to <11, 26>
+Moved to <11, 27>
+Moved to <11, 28>
+Moved to <12, 28>
+Moved to <12, 27>
+Moved to <12, 26>
+Moved to <13, 26>
+Congratulations! You have found a key! You now have 13/17 keys!
+Moved to <13, 25>
+Moved to <14, 25>
+Moved to <14, 26>
+Moved to <14, 27>
+Moved to <14, 28>
+Moved to <13, 28>
+Moved to <13, 27>
+Unable to move from <13, 27>
+Can move to <14, 24>
+Found path from <13, 27> to <14, 25> of length 3
+Moved to <14, 27>
+Moved to <14, 26>
+Moved to <14, 25>
+Moved to <14, 24>
+Moved to <14, 23>
+Moved to <14, 22>
+Moved to <14, 21>
+Congratulations! You have found a key! You now have 14/17 keys!
+Moved to <13, 21>
+Unable to move from <13, 21>
+Can move to <14, 20>
+Found path from <13, 21> to <14, 21> of length 1
+Moved to <14, 21>
+Moved to <14, 20>
+Moved to <14, 19>
+Moved to <14, 18>
+Moved to <14, 17>
+Moved to <14, 16>
+Moved to <14, 15>
+Moved to <14, 14>
+Moved to <14, 13>
+Moved to <13, 13>
+Moved to <13, 14>
+Moved to <13, 15>
+Moved to <13, 16>
+Moved to <13, 17>
+Moved to <13, 18>
+Moved to <13, 19>
+Moved to <12, 19>
+Moved to <12, 18>
+Moved to <12, 17>
+Moved to <12, 16>
+Moved to <12, 15>
+Moved to <12, 14>
+Moved to <12, 13>
+Moved to <11, 13>
+Moved to <11, 14>
+Moved to <11, 15>
+Moved to <11, 16>
+Moved to <11, 17>
+Moved to <11, 18>
+Moved to <11, 19>
+Moved to <10, 19>
+Moved to <10, 18>
+Moved to <10, 17>
+Moved to <10, 16>
+Moved to <10, 15>
+Moved to <10, 14>
+Moved to <10, 13>
+Unable to move from <10, 13>
+Can move to <15, 5>
+Found path from <10, 13> to <14, 5> of length 14
+Moved to <9, 13>
+Moved to <9, 12>
+Moved to <9, 11>
+Moved to <9, 10>
+Moved to <9, 9>
+Moved to <9, 8>
+Moved to <9, 7>
+Moved to <9, 6>
+Moved to <10, 6>
+Moved to <11, 6>
+Moved to <12, 6>
+Moved to <13, 6>
+Moved to <14, 6>
+Moved to <14, 5>
+Moved to <15, 5>
+Moved to <15, 6>
+Moved to <16, 6>
+Moved to <16, 7>
+Moved to <16, 8>
+Moved to <16, 9>
+Moved to <16, 10>
+Moved to <16, 11>
+Moved to <16, 12>
+Moved to <16, 13>
+Moved to <16, 14>
+Moved to <16, 15>
+Moved to <16, 16>
+Moved to <16, 17>
+Moved to <16, 18>
+Moved to <16, 19>
+Moved to <16, 20>
+Moved to <16, 21>
+Moved to <16, 22>
+Moved to <16, 23>
+Moved to <16, 24>
+Unable to move from <16, 24>
+Can move to <16, 5>
+Found path from <16, 24> to <16, 6> of length 18
+Moved to <16, 23>
+Moved to <16, 22>
+Moved to <16, 21>
+Moved to <16, 20>
+Moved to <16, 19>
+Moved to <16, 18>
+Moved to <16, 17>
+Moved to <16, 16>
+Moved to <16, 15>
+Moved to <16, 14>
+Moved to <16, 13>
+Moved to <16, 12>
+Moved to <16, 11>
+Moved to <16, 10>
+Moved to <16, 9>
+Moved to <16, 8>
+Moved to <16, 7>
+Moved to <16, 6>
+Moved to <16, 5>
+Moved to <16, 4>
+Moved to <16, 3>
+Moved to <16, 2>
+Moved to <16, 1>
+Unable to move from <16, 1>
+Can move to <14, 9>
+Found path from <16, 1> to <15, 9> of length 9
+Moved to <16, 2>
+Moved to <16, 3>
+Moved to <16, 4>
+Moved to <16, 5>
+Moved to <15, 5>
+Moved to <15, 6>
+Moved to <15, 7>
+Moved to <15, 8>
+Moved to <15, 9>
+Moved to <14, 9>
+Congratulations! You have found a key! You now have 15/17 keys!
+Moved to <13, 9>
+Unable to move from <13, 9>
+Can move to <14, 11>
+Found path from <13, 9> to <15, 11> of length 4
+Moved to <14, 9>
+Moved to <15, 9>
+Moved to <15, 10>
+Moved to <15, 11>
+Moved to <14, 11>
+Congratulations! You have found a key! You now have 16/17 keys!
+Moved to <13, 11>
+Unable to move from <13, 11>
+Can move to <20, 27>
+Found path from <13, 11> to <19, 27> of length 22
+Moved to <14, 11>
+Moved to <15, 11>
+Moved to <16, 11>
+Moved to <16, 12>
+Moved to <16, 13>
+Moved to <16, 14>
+Moved to <16, 15>
+Moved to <16, 16>
+Moved to <16, 17>
+Moved to <16, 18>
+Moved to <16, 19>
+Moved to <16, 20>
+Moved to <16, 21>
+Moved to <16, 22>
+Moved to <16, 23>
+Moved to <16, 24>
+Moved to <16, 25>
+Moved to <17, 25>
+Moved to <18, 25>
+Moved to <19, 25>
+Moved to <19, 26>
+Moved to <19, 27>
+Moved to <20, 27>
+Unable to move from <20, 27>
+Can move to <20, 25>
+Found path from <20, 27> to <19, 25> of length 3
+Moved to <19, 27>
+Moved to <19, 26>
+Moved to <19, 25>
+Moved to <20, 25>
+Unable to move from <20, 25>
+Can move to <20, 23>
+Found path from <20, 25> to <19, 23> of length 3
+Moved to <19, 25>
+Moved to <19, 24>
+Moved to <19, 23>
+Moved to <20, 23>
+Unable to move from <20, 23>
+Can move to <20, 21>
+Found path from <20, 23> to <19, 21> of length 3
+Moved to <19, 23>
+Moved to <19, 22>
+Moved to <19, 21>
+Moved to <20, 21>
+Unable to move from <20, 21>
+Can move to <20, 19>
+Found path from <20, 21> to <19, 19> of length 3
+Moved to <19, 21>
+Moved to <19, 20>
+Moved to <19, 19>
+Moved to <20, 19>
+Unable to move from <20, 19>
+Can move to <20, 17>
+Found path from <20, 19> to <19, 17> of length 3
+Moved to <19, 19>
+Moved to <19, 18>
+Moved to <19, 17>
+Moved to <20, 17>
+Unable to move from <20, 17>
+Can move to <20, 15>
+Found path from <20, 17> to <19, 15> of length 3
+Moved to <19, 17>
+Moved to <19, 16>
+Moved to <19, 15>
+Moved to <20, 15>
+Unable to move from <20, 15>
+Can move to <20, 13>
+Found path from <20, 15> to <19, 13> of length 3
+Moved to <19, 15>
+Moved to <19, 14>
+Moved to <19, 13>
+Moved to <20, 13>
+Unable to move from <20, 13>
+Can move to <20, 11>
+Found path from <20, 13> to <19, 11> of length 3
+Moved to <19, 13>
+Moved to <19, 12>
+Moved to <19, 11>
+Moved to <20, 11>
+Unable to move from <20, 11>
+Can move to <20, 9>
+Found path from <20, 11> to <19, 9> of length 3
+Moved to <19, 11>
+Moved to <19, 10>
+Moved to <19, 9>
+Moved to <20, 9>
+Unable to move from <20, 9>
+Can move to <20, 7>
+Found path from <20, 9> to <19, 7> of length 3
+Moved to <19, 9>
+Moved to <19, 8>
+Moved to <19, 7>
+Moved to <20, 7>
+Unable to move from <20, 7>
+Can move to <20, 5>
+Found path from <20, 7> to <19, 5> of length 3
+Moved to <19, 7>
+Moved to <19, 6>
+Moved to <19, 5>
+Moved to <20, 5>
+Unable to move from <20, 5>
+Can move to <20, 3>
+Found path from <20, 5> to <19, 3> of length 3
+Moved to <19, 5>
+Moved to <19, 4>
+Moved to <19, 3>
+Moved to <20, 3>
+Unable to move from <20, 3>
+Can move to <25, 25>
+Found path from <20, 3> to <25, 26> of length 30
+Moved to <21, 3>
+Moved to <22, 3>
+Moved to <23, 3>
+Moved to <23, 4>
+Moved to <23, 5>
+Moved to <23, 6>
+Moved to <23, 7>
+Moved to <23, 8>
+Moved to <23, 9>
+Moved to <23, 10>
+Moved to <23, 11>
+Moved to <23, 12>
+Moved to <23, 13>
+Moved to <23, 14>
+Moved to <23, 15>
+Moved to <23, 16>
+Moved to <23, 17>
+Moved to <23, 18>
+Moved to <23, 19>
+Moved to <23, 20>
+Moved to <23, 21>
+Moved to <23, 22>
+Moved to <23, 23>
+Moved to <23, 24>
+Moved to <23, 25>
+Moved to <23, 26>
+Moved to <23, 27>
+Moved to <24, 27>
+Moved to <25, 27>
+Moved to <25, 26>
+Moved to <25, 25>
+Moved to <25, 24>
+Moved to <25, 23>
+Moved to <25, 22>
+Moved to <25, 21>
+Moved to <25, 20>
+Moved to <25, 19>
+Moved to <25, 18>
+Moved to <25, 17>
+Moved to <25, 16>
+Moved to <25, 15>
+Moved to <25, 14>
+Moved to <25, 13>
+Moved to <25, 12>
+Moved to <25, 11>
+Moved to <25, 10>
+Moved to <25, 9>
+Moved to <25, 8>
+Moved to <25, 7>
+Moved to <25, 6>
+Moved to <25, 5>
+Moved to <25, 4>
+Moved to <25, 3>
+Moved to <25, 2>
+Moved to <25, 1>
+Moved to <26, 1>
+Moved to <27, 1>
+Moved to <27, 2>
+Moved to <27, 3>
+Moved to <27, 4>
+Moved to <27, 5>
+Moved to <27, 6>
+Congratulations! You have found a key! You now have 17/17 keys!
+Moved to <28, 6>
+Heading to the exit!
+Found path from <28, 6> to <11, 11> of length 74
+Moved to <27, 6>
+Moved to <27, 5>
+Moved to <27, 4>
+Moved to <27, 3>
+Moved to <27, 2>
+Moved to <27, 1>
+Moved to <26, 1>
+Moved to <25, 1>
+Moved to <25, 2>
+Moved to <25, 3>
+Moved to <25, 4>
+Moved to <25, 5>
+Moved to <25, 6>
+Moved to <25, 7>
+Moved to <25, 8>
+Moved to <25, 9>
+Moved to <25, 10>
+Moved to <25, 11>
+Moved to <25, 12>
+Moved to <25, 13>
+Moved to <25, 14>
+Moved to <25, 15>
+Moved to <25, 16>
+Moved to <25, 17>
+Moved to <25, 18>
+Moved to <25, 19>
+Moved to <25, 20>
+Moved to <25, 21>
+Moved to <25, 22>
+Moved to <25, 23>
+Moved to <25, 24>
+Moved to <25, 25>
+Moved to <25, 26>
+Moved to <25, 27>
+Moved to <24, 27>
+Moved to <23, 27>
+Moved to <22, 27>
+Moved to <21, 27>
+Moved to <20, 27>
+Moved to <19, 27>
+Moved to <18, 27>
+Moved to <18, 26>
+Moved to <18, 25>
+Moved to <17, 25>
+Moved to <16, 25>
+Moved to <15, 25>
+Moved to <15, 24>
+Moved to <15, 23>
+Moved to <15, 22>
+Moved to <15, 21>
+Moved to <15, 20>
+Moved to <15, 19>
+Moved to <15, 18>
+Moved to <15, 17>
+Moved to <15, 16>
+Moved to <15, 15>
+Moved to <15, 14>
+Moved to <15, 13>
+Moved to <15, 12>
+Moved to <15, 11>
+Moved to <15, 10>
+Moved to <15, 9>
+Moved to <15, 8>
+Moved to <15, 7>
+Moved to <14, 7>
+Moved to <14, 6>
+Moved to <13, 6>
+Moved to <12, 6>
+Moved to <11, 6>
+Moved to <11, 7>
+Moved to <11, 8>
+Moved to <11, 9>
+Moved to <11, 10>
+Moved to <11, 11>
+000000000000000000000000000000
+010101010101010101010101010110
+011101111101111101111101110110
+011111111111111111111111111110
+011111111111111111111111111110
+000111111111111111111111111000
+011111111111111111111111111110
+000111111111111111111111111000
+011111111111111111111111111110
+011111111111111111111111111110
+011111100000011111110000001110
+011111111112011111110000001110
+011111100000011111110000001110
+011111100101011111110100011110
+011111110101011111111111111110
+000001111111111111111111111110
+011111111111111111111111111110
+000000000000000000000000010000
+011111111111111111111111111110
+011111111111111111111111111110
+010101010101010101010101010100
+011111111111111111111111111110
+011111111111111111111111111110
+011111111111111111111111111110
+000000000000000000000000000100
+011111111111111111111111111110
+010000000000000010000000001000
+011111111111111111111111111110
+010000100000010000000100000010
+------------------------------
+You solved the maze in 915 steps!
+
+Running maze Test case 5...
+Moved to <1, 3>
+Moved to <1, 4>
+Moved to <1, 5>
+Moved to <1, 6>
+Moved to <1, 7>
+Moved to <1, 8>
+Moved to <1, 9>
+Moved to <1, 10>
+Moved to <1, 11>
+Moved to <1, 12>
+Moved to <1, 13>
+Moved to <1, 14>
+Moved to <1, 15>
+Moved to <1, 16>
+Moved to <1, 17>
+Moved to <1, 18>
+Moved to <1, 19>
+Moved to <1, 20>
+Moved to <1, 21>
+Moved to <1, 22>
+Moved to <1, 23>
+Moved to <1, 24>
+Moved to <1, 25>
+Congratulations! You have found a key! You now have 1/10 keys!
+Moved to <2, 25>
+Moved to <2, 24>
+Unable to move from <2, 24>
+Can move to <1, 26>
+Found path from <2, 24> to <1, 25> of length 2
+Moved to <1, 24>
+Moved to <1, 25>
+Moved to <1, 26>
+Moved to <1, 27>
+Moved to <1, 28>
+Moved to <1, 29>
+Moved to <1, 30>
+Moved to <2, 30>
+Moved to <2, 29>
+Moved to <3, 29>
+Moved to <3, 30>
+Moved to <4, 30>
+Moved to <4, 29>
+Moved to <4, 28>
+Moved to <4, 27>
+Moved to <4, 26>
+Moved to <4, 25>
+Moved to <5, 25>
+Moved to <5, 26>
+Moved to <5, 27>
+Moved to <5, 28>
+Moved to <5, 29>
+Moved to <5, 30>
+Unable to move from <5, 30>
+Can move to <6, 26>
+Found path from <5, 30> to <5, 26> of length 4
+Moved to <5, 29>
+Moved to <5, 28>
+Moved to <5, 27>
+Moved to <5, 26>
+Moved to <6, 26>
+Moved to <6, 25>
+Moved to <6, 24>
+Moved to <6, 23>
+Moved to <6, 22>
+Moved to <6, 21>
+Moved to <6, 20>
+Moved to <6, 19>
+Congratulations! You have found a key! You now have 2/10 keys!
+Moved to <5, 19>
+Moved to <5, 20>
+Moved to <4, 20>
+Moved to <4, 21>
+Moved to <4, 22>
+Moved to <3, 22>
+Moved to <3, 21>
+Moved to <3, 20>
+Unable to move from <3, 20>
+Can move to <4, 19>
+Found path from <3, 20> to <4, 20> of length 1
+Moved to <4, 20>
+Moved to <4, 19>
+Moved to <4, 18>
+Moved to <4, 17>
+Moved to <4, 16>
+Moved to <4, 15>
+Moved to <4, 14>
+Moved to <4, 13>
+Moved to <4, 12>
+Moved to <4, 11>
+Moved to <5, 11>
+Moved to <5, 12>
+Moved to <5, 13>
+Moved to <5, 14>
+Unable to move from <5, 14>
+Can move to <5, 10>
+Found path from <5, 14> to <5, 11> of length 3
+Moved to <5, 13>
+Moved to <5, 12>
+Moved to <5, 11>
+Moved to <5, 10>
+Moved to <5, 9>
+Moved to <5, 8>
+Moved to <5, 7>
+Moved to <5, 6>
+Moved to <5, 5>
+Moved to <5, 4>
+Moved to <5, 3>
+Moved to <5, 2>
+Moved to <5, 1>
+Moved to <6, 1>
+Moved to <6, 2>
+Moved to <6, 3>
+Moved to <6, 4>
+Moved to <6, 5>
+Moved to <6, 6>
+Moved to <6, 7>
+Moved to <6, 8>
+Unable to move from <6, 8>
+Can move to <7, 6>
+Found path from <6, 8> to <6, 6> of length 2
+Moved to <6, 7>
+Moved to <6, 6>
+Moved to <7, 6>
+Moved to <7, 5>
+Moved to <7, 4>
+Moved to <7, 3>
+Moved to <7, 2>
+Moved to <7, 1>
+Unable to move from <7, 1>
+Can move to <8, 4>
+Found path from <7, 1> to <7, 4> of length 3
+Moved to <7, 2>
+Moved to <7, 3>
+Moved to <7, 4>
+Moved to <8, 4>
+Moved to <8, 5>
+Moved to <8, 6>
+Moved to <8, 7>
+Moved to <8, 8>
+Moved to <9, 8>
+Moved to <9, 7>
+Moved to <9, 6>
+Moved to <9, 5>
+Unable to move from <9, 5>
+Can move to <10, 6>
+Found path from <9, 5> to <9, 6> of length 1
+Moved to <9, 6>
+Moved to <10, 6>
+Moved to <10, 7>
+Moved to <10, 8>
+Moved to <10, 9>
+Moved to <10, 10>
+Moved to <10, 11>
+Moved to <10, 12>
+Moved to <10, 13>
+Moved to <10, 14>
+Moved to <10, 15>
+Moved to <10, 16>
+Moved to <10, 17>
+Moved to <11, 17>
+Moved to <11, 16>
+Moved to <11, 15>
+Moved to <11, 14>
+Moved to <11, 13>
+Moved to <11, 12>
+Moved to <11, 11>
+Moved to <11, 10>
+Moved to <11, 9>
+Moved to <11, 8>
+Moved to <11, 7>
+Moved to <12, 7>
+Moved to <12, 8>
+Moved to <12, 9>
+Moved to <12, 10>
+Moved to <12, 11>
+Moved to <12, 12>
+Moved to <13, 12>
+Moved to <13, 13>
+Moved to <13, 14>
+Moved to <13, 15>
+Moved to <13, 16>
+Moved to <13, 17>
+Moved to <14, 17>
+Moved to <14, 18>
+Moved to <15, 18>
+Moved to <15, 19>
+Moved to <15, 20>
+Moved to <15, 21>
+Moved to <15, 22>
+Moved to <15, 23>
+Moved to <15, 24>
+Moved to <15, 25>
+Moved to <15, 26>
+Moved to <15, 27>
+Moved to <14, 27>
+Moved to <14, 28>
+Moved to <14, 29>
+Moved to <14, 30>
+Moved to <13, 30>
+Moved to <13, 29>
+Moved to <13, 28>
+Moved to <13, 27>
+Moved to <13, 26>
+Moved to <13, 25>
+Moved to <14, 25>
+Moved to <14, 26>
+Unable to move from <14, 26>
+Can move to <14, 24>
+Found path from <14, 26> to <14, 25> of length 1
+Moved to <14, 25>
+Moved to <14, 24>
+Unable to move from <14, 24>
+Can move to <12, 28>
+Found path from <14, 24> to <13, 28> of length 5
+Moved to <14, 25>
+Moved to <13, 25>
+Moved to <13, 26>
+Moved to <13, 27>
+Moved to <13, 28>
+Moved to <12, 28>
+Moved to <12, 29>
+Moved to <12, 30>
+Moved to <11, 30>
+Moved to <11, 29>
+Moved to <11, 28>
+Moved to <11, 27>
+Moved to <11, 26>
+Moved to <11, 25>
+Unable to move from <11, 25>
+Can move to <16, 25>
+Found path from <11, 25> to <15, 25> of length 10
+Moved to <11, 26>
+Moved to <11, 27>
+Moved to <11, 28>
+Moved to <12, 28>
+Moved to <13, 28>
+Moved to <14, 28>
+Moved to <14, 27>
+Moved to <15, 27>
+Moved to <15, 26>
+Moved to <15, 25>
+Moved to <16, 25>
+Moved to <16, 24>
+Moved to <16, 23>
+Moved to <16, 22>
+Moved to <16, 21>
+Moved to <16, 20>
+Moved to <16, 19>
+Moved to <17, 19>
+Moved to <17, 20>
+Moved to <17, 21>
+Moved to <17, 22>
+Moved to <18, 22>
+Moved to <18, 23>
+Moved to <18, 24>
+Moved to <18, 25>
+Moved to <18, 26>
+Moved to <19, 26>
+Moved to <19, 27>
+Moved to <19, 28>
+Moved to <19, 29>
+Moved to <19, 30>
+Moved to <18, 30>
+Moved to <18, 29>
+Moved to <17, 29>
+Moved to <17, 30>
+Unable to move from <17, 30>
+Can move to <17, 28>
+Found path from <17, 30> to <17, 29> of length 1
+Moved to <17, 29>
+Moved to <17, 28>
+Unable to move from <17, 28>
+Can move to <20, 28>
+Found path from <17, 28> to <19, 28> of length 4
+Moved to <17, 29>
+Moved to <18, 29>
+Moved to <19, 29>
+Moved to <19, 28>
+Moved to <20, 28>
+Moved to <20, 27>
+Moved to <20, 26>
+Moved to <20, 25>
+Moved to <20, 24>
+Moved to <20, 23>
+Moved to <19, 23>
+Moved to <19, 24>
+Moved to <19, 25>
+Unable to move from <19, 25>
+Can move to <19, 22>
+Found path from <19, 25> to <19, 23> of length 2
+Moved to <19, 24>
+Moved to <19, 23>
+Moved to <19, 22>
+Unable to move from <19, 22>
+Can move to <21, 27>
+Found path from <19, 22> to <20, 27> of length 6
+Moved to <19, 23>
+Moved to <20, 23>
+Moved to <20, 24>
+Moved to <20, 25>
+Moved to <20, 26>
+Moved to <20, 27>
+Moved to <21, 27>
+Moved to <21, 28>
+Moved to <21, 29>
+Moved to <21, 30>
+Moved to <22, 30>
+Congratulations! You have found a key! You now have 3/10 keys!
+Moved to <23, 30>
+Moved to <23, 29>
+Moved to <23, 28>
+Moved to <23, 27>
+Unable to move from <23, 27>
+Can move to <22, 28>
+Found path from <23, 27> to <23, 28> of length 1
+Moved to <23, 28>
+Moved to <22, 28>
+Moved to <22, 29>
+Unable to move from <22, 29>
+Can move to <18, 21>
+Found path from <22, 29> to <18, 22> of length 11
+Moved to <21, 29>
+Moved to <21, 28>
+Moved to <20, 28>
+Moved to <19, 28>
+Moved to <19, 27>
+Moved to <19, 26>
+Moved to <18, 26>
+Moved to <18, 25>
+Moved to <18, 24>
+Moved to <18, 23>
+Moved to <18, 22>
+Moved to <18, 21>
+Moved to <18, 20>
+Moved to <18, 19>
+Moved to <18, 18>
+Moved to <18, 17>
+Moved to <18, 16>
+Moved to <18, 15>
+Moved to <18, 14>
+Moved to <18, 13>
+Moved to <18, 12>
+Moved to <18, 11>
+Moved to <18, 10>
+Moved to <18, 9>
+Moved to <18, 8>
+Moved to <18, 7>
+Moved to <18, 6>
+Moved to <18, 5>
+Moved to <18, 4>
+Moved to <18, 3>
+Moved to <18, 2>
+Moved to <18, 1>
+Unable to move from <18, 1>
+Can move to <17, 4>
+Found path from <18, 1> to <18, 4> of length 3
+Moved to <18, 2>
+Moved to <18, 3>
+Moved to <18, 4>
+Moved to <17, 4>
+Moved to <17, 5>
+Moved to <17, 6>
+Moved to <17, 7>
+Moved to <17, 8>
+Moved to <17, 9>
+Moved to <17, 10>
+Moved to <17, 11>
+Unable to move from <17, 11>
+Can move to <16, 6>
+Found path from <17, 11> to <17, 6> of length 5
+Moved to <17, 10>
+Moved to <17, 9>
+Moved to <17, 8>
+Moved to <17, 7>
+Moved to <17, 6>
+Moved to <16, 6>
+Moved to <16, 5>
+Moved to <16, 4>
+Moved to <15, 4>
+Moved to <15, 5>
+Moved to <15, 6>
+Moved to <15, 7>
+Moved to <15, 8>
+Unable to move from <15, 8>
+Can move to <15, 3>
+Found path from <15, 8> to <15, 4> of length 4
+Moved to <15, 7>
+Moved to <15, 6>
+Moved to <15, 5>
+Moved to <15, 4>
+Moved to <15, 3>
+Moved to <15, 2>
+Moved to <15, 1>
+Unable to move from <15, 1>
+Can move to <19, 4>
+Found path from <15, 1> to <18, 4> of length 6
+Moved to <15, 2>
+Moved to <15, 3>
+Moved to <15, 4>
+Moved to <16, 4>
+Moved to <17, 4>
+Moved to <18, 4>
+Moved to <19, 4>
+Moved to <19, 5>
+Moved to <19, 6>
+Moved to <20, 6>
+Moved to <20, 7>
+Moved to <20, 8>
+Moved to <20, 9>
+Moved to <21, 9>
+Moved to <21, 8>
+Moved to <21, 7>
+Moved to <22, 7>
+Moved to <22, 8>
+Moved to <22, 9>
+Moved to <23, 9>
+Moved to <23, 10>
+Congratulations! You have found a key! You now have 4/10 keys!
+Moved to <23, 11>
+Moved to <23, 12>
+Unable to move from <23, 12>
+Can move to <23, 8>
+Found path from <23, 12> to <23, 9> of length 3
+Moved to <23, 11>
+Moved to <23, 10>
+Moved to <23, 9>
+Moved to <23, 8>
+Unable to move from <23, 8>
+Can move to <20, 5>
+Found path from <23, 8> to <20, 6> of length 5
+Moved to <22, 8>
+Moved to <21, 8>
+Moved to <20, 8>
+Moved to <20, 7>
+Moved to <20, 6>
+Moved to <20, 5>
+Moved to <20, 4>
+Moved to <20, 3>
+Moved to <20, 2>
+Moved to <20, 1>
+Moved to <21, 1>
+Moved to <21, 2>
+Moved to <21, 3>
+Unable to move from <21, 3>
+Can move to <22, 2>
+Found path from <21, 3> to <21, 2> of length 1
+Moved to <21, 2>
+Moved to <22, 2>
+Unable to move from <22, 2>
+Can move to <19, 11>
+Found path from <22, 2> to <18, 11> of length 13
+Moved to <21, 2>
+Moved to <20, 2>
+Moved to <20, 3>
+Moved to <20, 4>
+Moved to <19, 4>
+Moved to <18, 4>
+Moved to <18, 5>
+Moved to <18, 6>
+Moved to <18, 7>
+Moved to <18, 8>
+Moved to <18, 9>
+Moved to <18, 10>
+Moved to <18, 11>
+Moved to <19, 11>
+Moved to <19, 12>
+Moved to <19, 13>
+Moved to <19, 14>
+Moved to <19, 15>
+Moved to <19, 16>
+Moved to <19, 17>
+Moved to <19, 18>
+Moved to <19, 19>
+Moved to <19, 20>
+Unable to move from <19, 20>
+Can move to <20, 19>
+Found path from <19, 20> to <19, 19> of length 1
+Moved to <19, 19>
+Moved to <20, 19>
+Moved to <20, 18>
+Moved to <20, 17>
+Unable to move from <20, 17>
+Can move to <21, 18>
+Found path from <20, 17> to <20, 18> of length 1
+Moved to <20, 18>
+Moved to <21, 18>
+Moved to <21, 19>
+Moved to <21, 20>
+Moved to <21, 21>
+Moved to <21, 22>
+Moved to <22, 22>
+Moved to <22, 23>
+Unable to move from <22, 23>
+Can move to <22, 21>
+Found path from <22, 23> to <22, 22> of length 1
+Moved to <22, 22>
+Moved to <22, 21>
+Moved to <22, 20>
+Unable to move from <22, 20>
+Can move to <20, 13>
+Found path from <22, 20> to <19, 13> of length 10
+Moved to <21, 20>
+Moved to <21, 19>
+Moved to <20, 19>
+Moved to <19, 19>
+Moved to <19, 18>
+Moved to <19, 17>
+Moved to <19, 16>
+Moved to <19, 15>
+Moved to <19, 14>
+Moved to <19, 13>
+Moved to <20, 13>
+Moved to <20, 12>
+Moved to <20, 11>
+Moved to <21, 11>
+Moved to <21, 12>
+Moved to <21, 13>
+Moved to <21, 14>
+Moved to <21, 15>
+Moved to <22, 15>
+Moved to <22, 16>
+Moved to <22, 17>
+Moved to <23, 17>
+Moved to <23, 18>
+Moved to <24, 18>
+Moved to <24, 19>
+Moved to <24, 20>
+Moved to <24, 21>
+Moved to <24, 22>
+Moved to <24, 23>
+Moved to <24, 24>
+Moved to <25, 24>
+Moved to <25, 25>
+Moved to <25, 26>
+Moved to <25, 27>
+Moved to <25, 28>
+Moved to <25, 29>
+Moved to <25, 30>
+Moved to <26, 30>
+Moved to <26, 29>
+Moved to <26, 28>
+Moved to <27, 28>
+Congratulations! You have found a key! You now have 5/10 keys!
+Moved to <28, 28>
+Moved to <28, 29>
+Moved to <28, 30>
+Moved to <27, 30>
+Moved to <27, 29>
+Unable to move from <27, 29>
+Can move to <28, 27>
+Found path from <27, 29> to <28, 28> of length 2
+Moved to <28, 29>
+Moved to <28, 28>
+Moved to <28, 27>
+Moved to <28, 26>
+Moved to <28, 25>
+Moved to <27, 25>
+Moved to <27, 26>
+Moved to <27, 27>
+Unable to move from <27, 27>
+Can move to <25, 23>
+Found path from <27, 27> to <25, 24> of length 7
+Moved to <27, 28>
+Moved to <26, 28>
+Moved to <25, 28>
+Moved to <25, 27>
+Moved to <25, 26>
+Moved to <25, 25>
+Moved to <25, 24>
+Moved to <25, 23>
+Moved to <25, 22>
+Moved to <25, 21>
+Moved to <26, 21>
+Moved to <26, 22>
+Moved to <26, 23>
+Moved to <27, 23>
+Moved to <27, 22>
+Moved to <27, 21>
+Moved to <27, 20>
+Moved to <27, 19>
+Moved to <27, 18>
+Moved to <27, 17>
+Moved to <26, 17>
+Moved to <26, 18>
+Unable to move from <26, 18>
+Can move to <26, 16>
+Found path from <26, 18> to <26, 17> of length 1
+Moved to <26, 17>
+Moved to <26, 16>
+Moved to <26, 15>
+Moved to <26, 14>
+Moved to <26, 13>
+Moved to <26, 12>
+Moved to <26, 11>
+Moved to <25, 11>
+Moved to <25, 12>
+Moved to <25, 13>
+Moved to <25, 14>
+Moved to <25, 15>
+Moved to <25, 16>
+Moved to <24, 16>
+Moved to <24, 17>
+Unable to move from <24, 17>
+Can move to <24, 15>
+Found path from <24, 17> to <24, 16> of length 1
+Moved to <24, 16>
+Moved to <24, 15>
+Moved to <24, 14>
+Unable to move from <24, 14>
+Can move to <23, 15>
+Found path from <24, 14> to <24, 15> of length 1
+Moved to <24, 15>
+Moved to <23, 15>
+Moved to <23, 16>
+Unable to move from <23, 16>
+Can move to <25, 10>
+Found path from <23, 16> to <25, 11> of length 7
+Moved to <24, 16>
+Moved to <25, 16>
+Moved to <25, 15>
+Moved to <25, 14>
+Moved to <25, 13>
+Moved to <25, 12>
+Moved to <25, 11>
+Moved to <25, 10>
+Moved to <25, 9>
+Moved to <25, 8>
+Moved to <25, 7>
+Moved to <25, 6>
+Moved to <25, 5>
+Moved to <25, 4>
+Moved to <24, 4>
+Moved to <24, 5>
+Unable to move from <24, 5>
+Can move to <24, 3>
+Found path from <24, 5> to <24, 4> of length 1
+Moved to <24, 4>
+Moved to <24, 3>
+Unable to move from <24, 3>
+Can move to <26, 4>
+Found path from <24, 3> to <25, 4> of length 2
+Moved to <24, 4>
+Moved to <25, 4>
+Moved to <26, 4>
+Moved to <26, 5>
+Moved to <26, 6>
+Moved to <26, 7>
+Moved to <27, 7>
+Moved to <27, 6>
+Moved to <27, 5>
+Moved to <27, 4>
+Moved to <27, 3>
+Moved to <27, 2>
+Moved to <27, 1>
+Moved to <28, 1>
+Moved to <28, 2>
+Moved to <29, 2>
+Moved to <29, 3>
+Moved to <29, 4>
+Unable to move from <29, 4>
+Can move to <29, 1>
+Found path from <29, 4> to <29, 2> of length 2
+Moved to <29, 3>
+Moved to <29, 2>
+Moved to <29, 1>
+Moved to <30, 1>
+Moved to <30, 2>
+Moved to <31, 2>
+Congratulations! You have found a key! You now have 6/10 keys!
+Moved to <31, 3>
+Moved to <31, 4>
+Unable to move from <31, 4>
+Can move to <31, 1>
+Found path from <31, 4> to <31, 2> of length 2
+Moved to <31, 3>
+Moved to <31, 2>
+Moved to <31, 1>
+Unable to move from <31, 1>
+Can move to <26, 3>
+Found path from <31, 1> to <27, 3> of length 6
+Moved to <30, 1>
+Moved to <29, 1>
+Moved to <28, 1>
+Moved to <27, 1>
+Moved to <27, 2>
+Moved to <27, 3>
+Moved to <26, 3>
+Unable to move from <26, 3>
+Can move to <27, 11>
+Found path from <26, 3> to <26, 11> of length 10
+Moved to <26, 4>
+Moved to <25, 4>
+Moved to <25, 5>
+Moved to <25, 6>
+Moved to <25, 7>
+Moved to <25, 8>
+Moved to <25, 9>
+Moved to <25, 10>
+Moved to <25, 11>
+Moved to <26, 11>
+Moved to <27, 11>
+Moved to <27, 12>
+Moved to <28, 12>
+Moved to <28, 11>
+Moved to <28, 10>
+Moved to <28, 9>
+Moved to <29, 9>
+Moved to <29, 10>
+Moved to <29, 11>
+Moved to <29, 12>
+Unable to move from <29, 12>
+Can move to <29, 8>
+Found path from <29, 12> to <29, 9> of length 3
+Moved to <29, 11>
+Moved to <29, 10>
+Moved to <29, 9>
+Moved to <29, 8>
+Moved to <29, 7>
+Moved to <29, 6>
+Moved to <30, 6>
+Moved to <30, 7>
+Moved to <30, 8>
+Moved to <30, 9>
+Moved to <31, 9>
+Moved to <31, 10>
+Moved to <31, 11>
+Moved to <31, 12>
+Unable to move from <31, 12>
+Can move to <31, 8>
+Found path from <31, 12> to <31, 9> of length 3
+Moved to <31, 11>
+Moved to <31, 10>
+Moved to <31, 9>
+Moved to <31, 8>
+Moved to <31, 7>
+Moved to <31, 6>
+Unable to move from <31, 6>
+Can move to <27, 10>
+Found path from <31, 6> to <28, 10> of length 7
+Moved to <30, 6>
+Moved to <29, 6>
+Moved to <29, 7>
+Moved to <29, 8>
+Moved to <29, 9>
+Moved to <28, 9>
+Moved to <28, 10>
+Moved to <27, 10>
+Unable to move from <27, 10>
+Can move to <28, 17>
+Found path from <27, 10> to <27, 17> of length 9
+Moved to <27, 11>
+Moved to <26, 11>
+Moved to <26, 12>
+Moved to <26, 13>
+Moved to <26, 14>
+Moved to <26, 15>
+Moved to <26, 16>
+Moved to <26, 17>
+Moved to <27, 17>
+Moved to <28, 17>
+Moved to <28, 18>
+Moved to <28, 19>
+Moved to <28, 20>
+Moved to <28, 21>
+Moved to <28, 22>
+Moved to <28, 23>
+Moved to <29, 23>
+Moved to <29, 22>
+Moved to <30, 22>
+Moved to <30, 23>
+Moved to <30, 24>
+Moved to <30, 25>
+Moved to <30, 26>
+Moved to <30, 27>
+Moved to <30, 28>
+Moved to <30, 29>
+Moved to <30, 30>
+Unable to move from <30, 30>
+Can move to <31, 23>
+Found path from <30, 30> to <30, 23> of length 7
+Moved to <30, 29>
+Moved to <30, 28>
+Moved to <30, 27>
+Moved to <30, 26>
+Moved to <30, 25>
+Moved to <30, 24>
+Moved to <30, 23>
+Moved to <31, 23>
+Moved to <31, 22>
+Moved to <31, 21>
+Moved to <31, 20>
+Moved to <31, 19>
+Moved to <31, 18>
+Moved to <31, 17>
+Moved to <31, 16>
+Congratulations! You have found a key! You now have 7/10 keys!
+Moved to <30, 16>
+Moved to <30, 17>
+Moved to <30, 18>
+Unable to move from <30, 18>
+Can move to <30, 15>
+Found path from <30, 18> to <30, 16> of length 2
+Moved to <30, 17>
+Moved to <30, 16>
+Moved to <30, 15>
+Moved to <30, 14>
+Moved to <29, 14>
+Moved to <29, 15>
+Moved to <28, 15>
+Moved to <28, 14>
+Unable to move from <28, 14>
+Can move to <31, 14>
+Found path from <28, 14> to <30, 14> of length 2
+Moved to <29, 14>
+Moved to <30, 14>
+Moved to <31, 14>
+Moved to <31, 15>
+Unable to move from <31, 15>
+Can move to <22, 14>
+Found path from <31, 15> to <22, 15> of length 23
+Moved to <31, 16>
+Moved to <31, 17>
+Moved to <31, 18>
+Moved to <31, 19>
+Moved to <31, 20>
+Moved to <31, 21>
+Moved to <31, 22>
+Moved to <30, 22>
+Moved to <29, 22>
+Moved to <28, 22>
+Moved to <27, 22>
+Moved to <26, 22>
+Moved to <25, 22>
+Moved to <24, 22>
+Moved to <24, 21>
+Moved to <24, 20>
+Moved to <24, 19>
+Moved to <24, 18>
+Moved to <23, 18>
+Moved to <23, 17>
+Moved to <22, 17>
+Moved to <22, 16>
+Moved to <22, 15>
+Moved to <22, 14>
+Unable to move from <22, 14>
+Can move to <17, 17>
+Found path from <22, 14> to <18, 17> of length 9
+Moved to <21, 14>
+Moved to <21, 13>
+Moved to <20, 13>
+Moved to <19, 13>
+Moved to <18, 13>
+Moved to <18, 14>
+Moved to <18, 15>
+Moved to <18, 16>
+Moved to <18, 17>
+Moved to <17, 17>
+Moved to <17, 18>
+Unable to move from <17, 18>
+Can move to <15, 17>
+Found path from <17, 18> to <15, 18> of length 4
+Moved to <17, 19>
+Moved to <16, 19>
+Moved to <15, 19>
+Moved to <15, 18>
+Moved to <15, 17>
+Moved to <15, 16>
+Moved to <15, 15>
+Moved to <15, 14>
+Moved to <15, 13>
+Moved to <15, 12>
+Moved to <15, 11>
+Moved to <14, 11>
+Moved to <14, 12>
+Moved to <14, 13>
+Moved to <14, 14>
+Moved to <14, 15>
+Moved to <14, 16>
+Unable to move from <14, 16>
+Can move to <14, 10>
+Found path from <14, 16> to <14, 11> of length 5
+Moved to <14, 15>
+Moved to <14, 14>
+Moved to <14, 13>
+Moved to <14, 12>
+Moved to <14, 11>
+Moved to <14, 10>
+Moved to <13, 10>
+Moved to <13, 11>
+Unable to move from <13, 11>
+Can move to <13, 9>
+Found path from <13, 11> to <13, 10> of length 1
+Moved to <13, 10>
+Moved to <13, 9>
+Moved to <13, 8>
+Moved to <13, 7>
+Moved to <13, 6>
+Moved to <13, 5>
+Moved to <12, 5>
+Moved to <12, 6>
+Unable to move from <12, 6>
+Can move to <12, 4>
+Found path from <12, 6> to <12, 5> of length 1
+Moved to <12, 5>
+Moved to <12, 4>
+Moved to <12, 3>
+Moved to <12, 2>
+Moved to <12, 1>
+Moved to <11, 1>
+Moved to <10, 1>
+Moved to <10, 2>
+Moved to <9, 2>
+Moved to <9, 1>
+Unable to move from <9, 1>
+Can move to <13, 1>
+Found path from <9, 1> to <12, 1> of length 3
+Moved to <10, 1>
+Moved to <11, 1>
+Moved to <12, 1>
+Moved to <13, 1>
+Unable to move from <13, 1>
+Can move to <16, 13>
+Found path from <13, 1> to <15, 13> of length 16
+Moved to <12, 1>
+Moved to <12, 2>
+Moved to <12, 3>
+Moved to <12, 4>
+Moved to <12, 5>
+Moved to <13, 5>
+Moved to <13, 6>
+Moved to <13, 7>
+Moved to <13, 8>
+Moved to <13, 9>
+Moved to <13, 10>
+Moved to <14, 10>
+Moved to <14, 11>
+Moved to <15, 11>
+Moved to <15, 12>
+Moved to <15, 13>
+Moved to <16, 13>
+Moved to <16, 14>
+Unable to move from <16, 14>
+Can move to <9, 14>
+Found path from <16, 14> to <10, 14> of length 10
+Moved to <15, 14>
+Moved to <14, 14>
+Moved to <13, 14>
+Moved to <13, 13>
+Moved to <13, 12>
+Moved to <12, 12>
+Moved to <11, 12>
+Moved to <10, 12>
+Moved to <10, 13>
+Moved to <10, 14>
+Moved to <9, 14>
+Moved to <9, 13>
+Moved to <9, 12>
+Congratulations! You have found a key! You now have 8/10 keys!
+Moved to <8, 12>
+Moved to <8, 13>
+Moved to <8, 14>
+Moved to <7, 14>
+Moved to <7, 13>
+Moved to <7, 12>
+Moved to <7, 11>
+Moved to <7, 10>
+Moved to <8, 10>
+Moved to <8, 11>
+Unable to move from <8, 11>
+Can move to <4, 4>
+Found path from <8, 11> to <5, 4> of length 16
+Moved to <8, 12>
+Moved to <9, 12>
+Moved to <10, 12>
+Moved to <10, 11>
+Moved to <10, 10>
+Moved to <10, 9>
+Moved to <10, 8>
+Moved to <9, 8>
+Moved to <8, 8>
+Moved to <8, 7>
+Moved to <8, 6>
+Moved to <7, 6>
+Moved to <6, 6>
+Moved to <5, 6>
+Moved to <5, 5>
+Moved to <5, 4>
+Moved to <4, 4>
+Moved to <4, 5>
+Moved to <4, 6>
+Moved to <4, 7>
+Moved to <4, 8>
+Unable to move from <4, 8>
+Can move to <3, 7>
+Found path from <4, 8> to <4, 7> of length 1
+Moved to <4, 7>
+Moved to <3, 7>
+Moved to <3, 6>
+Moved to <3, 5>
+Moved to <3, 4>
+Moved to <3, 3>
+Congratulations! You have found a key! You now have 9/10 keys!
+Moved to <3, 2>
+Moved to <3, 1>
+Unable to move from <3, 1>
+Can move to <3, 12>
+Found path from <3, 1> to <4, 12> of length 14
+Moved to <3, 2>
+Moved to <3, 3>
+Moved to <3, 4>
+Moved to <4, 4>
+Moved to <5, 4>
+Moved to <5, 5>
+Moved to <5, 6>
+Moved to <5, 7>
+Moved to <5, 8>
+Moved to <5, 9>
+Moved to <5, 10>
+Moved to <5, 11>
+Moved to <4, 11>
+Moved to <4, 12>
+Moved to <3, 12>
+Moved to <3, 13>
+Moved to <3, 14>
+Moved to <3, 15>
+Unable to move from <3, 15>
+Can move to <5, 16>
+Found path from <3, 15> to <4, 16> of length 2
+Moved to <4, 15>
+Moved to <4, 16>
+Moved to <5, 16>
+Moved to <5, 17>
+Moved to <5, 18>
+Moved to <6, 18>
+Moved to <6, 17>
+Moved to <6, 16>
+Moved to <7, 16>
+Moved to <7, 17>
+Moved to <7, 18>
+Moved to <7, 19>
+Moved to <7, 20>
+Moved to <7, 21>
+Moved to <7, 22>
+Moved to <7, 23>
+Moved to <7, 24>
+Moved to <7, 25>
+Moved to <7, 26>
+Moved to <7, 27>
+Moved to <7, 28>
+Moved to <8, 28>
+Moved to <8, 29>
+Moved to <8, 30>
+Unable to move from <8, 30>
+Can move to <8, 27>
+Found path from <8, 30> to <8, 28> of length 2
+Moved to <8, 29>
+Moved to <8, 28>
+Moved to <8, 27>
+Moved to <8, 26>
+Moved to <8, 25>
+Moved to <8, 24>
+Moved to <8, 23>
+Moved to <8, 22>
+Moved to <8, 21>
+Moved to <8, 20>
+Moved to <8, 19>
+Moved to <8, 18>
+Moved to <8, 17>
+Moved to <8, 16>
+Unable to move from <8, 16>
+Can move to <9, 19>
+Found path from <8, 16> to <8, 19> of length 3
+Moved to <8, 17>
+Moved to <8, 18>
+Moved to <8, 19>
+Moved to <9, 19>
+Moved to <9, 20>
+Moved to <9, 21>
+Moved to <9, 22>
+Moved to <10, 22>
+Moved to <10, 21>
+Moved to <10, 20>
+Moved to <11, 20>
+Moved to <11, 21>
+Moved to <11, 22>
+Moved to <12, 22>
+Moved to <12, 23>
+Unable to move from <12, 23>
+Can move to <12, 21>
+Found path from <12, 23> to <12, 22> of length 1
+Moved to <12, 22>
+Moved to <12, 21>
+Congratulations! You have found a key! You now have 10/10 keys!
+Moved to <13, 21>
+Heading to the exit!
+Found path from <13, 21> to <22, 3> of length 71
+Moved to <12, 21>
+Moved to <11, 21>
+Moved to <10, 21>
+Moved to <9, 21>
+Moved to <8, 21>
+Moved to <7, 21>
+Moved to <6, 21>
+Moved to <6, 20>
+Moved to <5, 20>
+Moved to <4, 20>
+Moved to <4, 19>
+Moved to <4, 18>
+Moved to <4, 17>
+Moved to <4, 16>
+Moved to <4, 15>
+Moved to <4, 14>
+Moved to <5, 14>
+Moved to <5, 13>
+Moved to <5, 12>
+Moved to <5, 11>
+Moved to <5, 10>
+Moved to <5, 9>
+Moved to <5, 8>
+Moved to <6, 8>
+Moved to <6, 7>
+Moved to <6, 6>
+Moved to <7, 6>
+Moved to <8, 6>
+Moved to <9, 6>
+Moved to <10, 6>
+Moved to <10, 7>
+Moved to <11, 7>
+Moved to <12, 7>
+Moved to <13, 7>
+Moved to <13, 8>
+Moved to <13, 9>
+Moved to <13, 10>
+Moved to <14, 10>
+Moved to <14, 11>
+Moved to <15, 11>
+Moved to <15, 12>
+Moved to <15, 13>
+Moved to <15, 14>
+Moved to <15, 15>
+Moved to <15, 16>
+Moved to <15, 17>
+Moved to <15, 18>
+Moved to <15, 19>
+Moved to <16, 19>
+Moved to <17, 19>
+Moved to <18, 19>
+Moved to <18, 18>
+Moved to <18, 17>
+Moved to <18, 16>
+Moved to <18, 15>
+Moved to <18, 14>
+Moved to <18, 13>
+Moved to <18, 12>
+Moved to <18, 11>
+Moved to <18, 10>
+Moved to <18, 9>
+Moved to <18, 8>
+Moved to <18, 7>
+Moved to <18, 6>
+Moved to <19, 6>
+Moved to <20, 6>
+Moved to <20, 5>
+Moved to <20, 4>
+Moved to <20, 3>
+Moved to <21, 3>
+Moved to <22, 3>
+00000000000000000000000000000000
+01111111111111111111111111111110
+00000000011000001100000011000110
+01111111000011110000111000111110
+00001111100111111111111001111110
+01111111111111101111100011111110
+01111111100000001111111111100000
+01111110001111101111111111111000
+00001111101111101111111111111110
+01100111100011100001111000000000
+01100011111111111100111000000000
+01000001111111111100111001111110
+01111111111110000001111100001110
+01000111111111111100111001111110
+00000000001111111110000011111110
+01111111100111111111111111110000
+00001110000001100001111111000000
+00001111111100000111111000001110
+01111111111111111111111111100110
+00001110000111111111101111111110
+01111111110111000111000111111000
+01110001110111110011111000011110
+00121101110000111100111100001110
+00000000111110011110000000011110
+00011100000000111111111110000000
+00001111111111111000011111111110
+00011111000111111110011100001110
+01111111001110000111111101111110
+01100000011110110111111101111110
+01111011111110110000001100000000
+01100011110000111110001111111110
+01111011111110111111111100000000
+--------------------------------
+You solved the maze in 965 steps!
+
+Running maze Test case 6...
+Moved to <10, 4>
+Moved to <9, 4>
+Moved to <9, 3>
+Moved to <9, 2>
+Moved to <8, 2>
+Moved to <8, 3>
+Moved to <8, 4>
+Moved to <8, 5>
+Moved to <8, 6>
+Moved to <8, 7>
+Moved to <8, 8>
+Congratulations! You have found a key! You now have 1/3 keys!
+Moved to <7, 8>
+Moved to <7, 7>
+Moved to <6, 7>
+Moved to <5, 7>
+Moved to <5, 8>
+Moved to <5, 9>
+Moved to <5, 10>
+Moved to <4, 10>
+Moved to <4, 9>
+Moved to <4, 8>
+Moved to <4, 7>
+Moved to <4, 6>
+Moved to <4, 5>
+Moved to <4, 4>
+Moved to <4, 3>
+Moved to <4, 2>
+Congratulations! You have found a key! You now have 2/3 keys!
+Moved to <4, 1>
+Unable to move from <4, 1>
+Can move to <5, 2>
+Found path from <4, 1> to <4, 2> of length 1
+Moved to <4, 2>
+Moved to <5, 2>
+Moved to <6, 2>
+Moved to <6, 3>
+Moved to <6, 4>
+Moved to <7, 4>
+Unable to move from <7, 4>
+Can move to <3, 4>
+Found path from <7, 4> to <4, 4> of length 7
+Moved to <6, 4>
+Moved to <6, 3>
+Moved to <6, 2>
+Moved to <5, 2>
+Moved to <4, 2>
+Moved to <4, 3>
+Moved to <4, 4>
+Moved to <3, 4>
+Moved to <3, 5>
+Moved to <3, 6>
+Moved to <2, 6>
+Moved to <2, 5>
+Moved to <2, 4>
+Moved to <1, 4>
+Moved to <1, 5>
+Moved to <1, 6>
+Moved to <1, 7>
+Moved to <1, 8>
+Moved to <1, 9>
+Moved to <1, 10>
+Congratulations! You have found a key! You now have 3/3 keys!
+Moved to <2, 10>
+Heading to the exit!
+Found path from <2, 10> to <6, 9> of length 13
+Moved to <1, 10>
+Moved to <1, 9>
+Moved to <1, 8>
+Moved to <1, 7>
+Moved to <1, 6>
+Moved to <2, 6>
+Moved to <3, 6>
+Moved to <4, 6>
+Moved to <4, 7>
+Moved to <5, 7>
+Moved to <5, 8>
+Moved to <5, 9>
+Moved to <6, 9>
+000000000000
+011111111110
+000011100010
+000011100000
+011111111110
+001000011110
+001110010210
+000010011010
+001111111110
+001110000000
+000010000000
+------------
+You solved the maze in 67 steps!
+
+Running maze Test case 7...
+Moved to <19, 19>
+Moved to <19, 20>
+Moved to <19, 21>
+Moved to <19, 22>
+Moved to <19, 23>
+Moved to <19, 24>
+Moved to <19, 25>
+Moved to <18, 25>
+Moved to <18, 24>
+Moved to <18, 23>
+Moved to <18, 22>
+Moved to <18, 21>
+Moved to <18, 20>
+Moved to <18, 19>
+Moved to <18, 18>
+Moved to <18, 17>
+Moved to <18, 16>
+Moved to <17, 16>
+Moved to <17, 17>
+Moved to <17, 18>
+Moved to <17, 19>
+Moved to <17, 20>
+Moved to <17, 21>
+Moved to <17, 22>
+Moved to <17, 23>
+Moved to <17, 24>
+Moved to <17, 25>
+Moved to <16, 25>
+Moved to <16, 24>
+Moved to <16, 23>
+Moved to <16, 22>
+Moved to <16, 21>
+Moved to <16, 20>
+Moved to <16, 19>
+Moved to <16, 18>
+Moved to <16, 17>
+Moved to <16, 16>
+Moved to <15, 16>
+Moved to <15, 17>
+Moved to <15, 18>
+Moved to <15, 19>
+Moved to <15, 20>
+Moved to <15, 21>
+Moved to <15, 22>
+Moved to <15, 23>
+Moved to <15, 24>
+Moved to <15, 25>
+Moved to <15, 26>
+Moved to <15, 27>
+Moved to <15, 28>
+Moved to <15, 29>
+Moved to <14, 29>
+Moved to <14, 28>
+Moved to <14, 27>
+Moved to <14, 26>
+Moved to <14, 25>
+Moved to <14, 24>
+Moved to <14, 23>
+Moved to <14, 22>
+Moved to <14, 21>
+Moved to <14, 20>
+Moved to <14, 19>
+Moved to <14, 18>
+Moved to <14, 17>
+Moved to <14, 16>
+Moved to <13, 16>
+Moved to <13, 17>
+Moved to <13, 18>
+Moved to <13, 19>
+Moved to <13, 20>
+Moved to <13, 21>
+Moved to <13, 22>
+Moved to <13, 23>
+Moved to <13, 24>
+Moved to <13, 25>
+Moved to <13, 26>
+Moved to <13, 27>
+Moved to <13, 28>
+Moved to <13, 29>
+Moved to <12, 29>
+Moved to <12, 28>
+Moved to <12, 27>
+Moved to <12, 26>
+Moved to <12, 25>
+Moved to <12, 24>
+Moved to <12, 23>
+Moved to <12, 22>
+Moved to <12, 21>
+Moved to <12, 20>
+Moved to <12, 19>
+Moved to <12, 18>
+Moved to <12, 17>
+Moved to <12, 16>
+Moved to <11, 16>
+Moved to <11, 17>
+Moved to <11, 18>
+Moved to <11, 19>
+Moved to <11, 20>
+Moved to <11, 21>
+Moved to <11, 22>
+Moved to <11, 23>
+Moved to <11, 24>
+Moved to <11, 25>
+Moved to <11, 26>
+Moved to <11, 27>
+Moved to <11, 28>
+Moved to <11, 29>
+Moved to <10, 29>
+Moved to <10, 28>
+Moved to <10, 27>
+Moved to <10, 26>
+Moved to <10, 25>
+Moved to <10, 24>
+Moved to <10, 23>
+Moved to <10, 22>
+Moved to <10, 21>
+Moved to <10, 20>
+Moved to <10, 19>
+Moved to <10, 18>
+Moved to <10, 17>
+Moved to <10, 16>
+Unable to move from <10, 16>
+Can move to <9, 19>
+Found path from <10, 16> to <10, 19> of length 3
+Moved to <10, 17>
+Moved to <10, 18>
+Moved to <10, 19>
+Moved to <9, 19>
+Moved to <9, 20>
+Moved to <9, 21>
+Moved to <9, 22>
+Moved to <9, 23>
+Moved to <9, 24>
+Moved to <9, 25>
+Moved to <9, 26>
+Moved to <9, 27>
+Moved to <9, 28>
+Moved to <9, 29>
+Moved to <8, 29>
+Moved to <8, 28>
+Moved to <8, 27>
+Moved to <8, 26>
+Moved to <8, 25>
+Moved to <8, 24>
+Moved to <8, 23>
+Moved to <8, 22>
+Moved to <8, 21>
+Moved to <8, 20>
+Moved to <8, 19>
+Moved to <8, 18>
+Moved to <8, 17>
+Moved to <8, 16>
+Moved to <7, 16>
+Moved to <7, 17>
+Moved to <7, 18>
+Moved to <7, 19>
+Moved to <7, 20>
+Moved to <7, 21>
+Moved to <7, 22>
+Moved to <7, 23>
+Moved to <7, 24>
+Moved to <7, 25>
+Moved to <7, 26>
+Moved to <7, 27>
+Moved to <7, 28>
+Moved to <7, 29>
+Moved to <6, 29>
+Moved to <6, 28>
+Moved to <6, 27>
+Moved to <6, 26>
+Moved to <6, 25>
+Moved to <6, 24>
+Moved to <6, 23>
+Moved to <6, 22>
+Moved to <6, 21>
+Moved to <6, 20>
+Moved to <6, 19>
+Moved to <6, 18>
+Moved to <6, 17>
+Moved to <6, 16>
+Moved to <5, 16>
+Moved to <5, 17>
+Moved to <5, 18>
+Moved to <5, 19>
+Moved to <5, 20>
+Moved to <5, 21>
+Moved to <5, 22>
+Moved to <5, 23>
+Moved to <5, 24>
+Moved to <5, 25>
+Moved to <5, 26>
+Moved to <5, 27>
+Moved to <5, 28>
+Moved to <5, 29>
+Moved to <4, 29>
+Moved to <4, 30>
+Moved to <4, 31>
+Moved to <3, 31>
+Moved to <3, 30>
+Moved to <3, 29>
+Moved to <3, 28>
+Moved to <3, 27>
+Moved to <3, 26>
+Moved to <3, 25>
+Moved to <3, 24>
+Moved to <3, 23>
+Moved to <3, 22>
+Moved to <3, 21>
+Moved to <3, 20>
+Moved to <3, 19>
+Moved to <3, 18>
+Moved to <3, 17>
+Moved to <3, 16>
+Moved to <3, 15>
+Moved to <3, 14>
+Moved to <3, 13>
+Moved to <3, 12>
+Moved to <3, 11>
+Moved to <3, 10>
+Moved to <3, 9>
+Moved to <3, 8>
+Moved to <3, 7>
+Moved to <3, 6>
+Moved to <3, 5>
+Moved to <3, 4>
+Moved to <3, 3>
+Moved to <3, 2>
+Moved to <3, 1>
+Moved to <2, 1>
+Moved to <2, 2>
+Moved to <2, 3>
+Moved to <2, 4>
+Moved to <2, 5>
+Moved to <2, 6>
+Moved to <2, 7>
+Moved to <2, 8>
+Moved to <2, 9>
+Moved to <2, 10>
+Moved to <2, 11>
+Moved to <2, 12>
+Moved to <2, 13>
+Moved to <2, 14>
+Moved to <2, 15>
+Moved to <2, 16>
+Moved to <2, 17>
+Moved to <2, 18>
+Moved to <2, 19>
+Moved to <2, 20>
+Moved to <2, 21>
+Moved to <2, 22>
+Moved to <2, 23>
+Moved to <2, 24>
+Moved to <2, 25>
+Moved to <2, 26>
+Moved to <2, 27>
+Moved to <2, 28>
+Moved to <2, 29>
+Moved to <2, 30>
+Moved to <2, 31>
+Moved to <1, 31>
+Moved to <1, 30>
+Moved to <1, 29>
+Moved to <1, 28>
+Moved to <1, 27>
+Moved to <1, 26>
+Moved to <1, 25>
+Moved to <1, 24>
+Moved to <1, 23>
+Moved to <1, 22>
+Moved to <1, 21>
+Moved to <1, 20>
+Moved to <1, 19>
+Moved to <1, 18>
+Moved to <1, 17>
+Moved to <1, 16>
+Moved to <1, 15>
+Moved to <1, 14>
+Moved to <1, 13>
+Moved to <1, 12>
+Moved to <1, 11>
+Moved to <1, 10>
+Moved to <1, 9>
+Moved to <1, 8>
+Moved to <1, 7>
+Moved to <1, 6>
+Moved to <1, 5>
+Moved to <1, 4>
+Moved to <1, 3>
+Moved to <1, 2>
+Moved to <1, 1>
+Unable to move from <1, 1>
+Can move to <4, 1>
+Found path from <1, 1> to <3, 1> of length 2
+Moved to <2, 1>
+Moved to <3, 1>
+Moved to <4, 1>
+Moved to <4, 2>
+Moved to <4, 3>
+Moved to <4, 4>
+Moved to <5, 4>
+Moved to <5, 5>
+Moved to <5, 6>
+Moved to <5, 7>
+Moved to <5, 8>
+Moved to <5, 9>
+Moved to <5, 10>
+Moved to <5, 11>
+Moved to <5, 12>
+Moved to <5, 13>
+Moved to <5, 14>
+Moved to <6, 14>
+Moved to <6, 13>
+Moved to <6, 12>
+Moved to <6, 11>
+Moved to <6, 10>
+Moved to <6, 9>
+Moved to <6, 8>
+Moved to <6, 7>
+Moved to <6, 6>
+Moved to <6, 5>
+Moved to <6, 4>
+Moved to <7, 4>
+Moved to <7, 5>
+Moved to <7, 6>
+Moved to <7, 7>
+Moved to <7, 8>
+Moved to <7, 9>
+Moved to <7, 10>
+Moved to <7, 11>
+Moved to <7, 12>
+Moved to <7, 13>
+Moved to <7, 14>
+Moved to <8, 14>
+Moved to <8, 13>
+Moved to <8, 12>
+Moved to <8, 11>
+Moved to <8, 10>
+Moved to <8, 9>
+Moved to <8, 8>
+Moved to <8, 7>
+Moved to <8, 6>
+Moved to <8, 5>
+Moved to <8, 4>
+Moved to <9, 4>
+Moved to <9, 5>
+Moved to <9, 6>
+Moved to <9, 7>
+Moved to <9, 8>
+Moved to <9, 9>
+Moved to <10, 9>
+Moved to <10, 10>
+Moved to <10, 11>
+Moved to <10, 12>
+Moved to <10, 13>
+Moved to <10, 14>
+Moved to <11, 14>
+Moved to <11, 13>
+Moved to <11, 12>
+Moved to <11, 11>
+Moved to <11, 10>
+Moved to <11, 9>
+Moved to <11, 8>
+Moved to <11, 7>
+Moved to <11, 6>
+Moved to <11, 5>
+Moved to <11, 4>
+Moved to <10, 4>
+Moved to <10, 5>
+Moved to <10, 6>
+Moved to <10, 7>
+Moved to <10, 8>
+Unable to move from <10, 8>
+Can move to <12, 4>
+Found path from <10, 8> to <11, 4> of length 5
+Moved to <11, 8>
+Moved to <11, 7>
+Moved to <11, 6>
+Moved to <11, 5>
+Moved to <11, 4>
+Moved to <12, 4>
+Moved to <12, 5>
+Moved to <12, 6>
+Moved to <12, 7>
+Moved to <12, 8>
+Moved to <12, 9>
+Moved to <12, 10>
+Moved to <12, 11>
+Moved to <12, 12>
+Moved to <12, 13>
+Moved to <12, 14>
+Moved to <13, 14>
+Moved to <13, 13>
+Moved to <13, 12>
+Moved to <13, 11>
+Moved to <13, 10>
+Moved to <13, 9>
+Moved to <13, 8>
+Moved to <13, 7>
+Moved to <13, 6>
+Moved to <13, 5>
+Moved to <13, 4>
+Moved to <14, 4>
+Moved to <14, 5>
+Moved to <14, 6>
+Moved to <14, 7>
+Moved to <14, 8>
+Moved to <14, 9>
+Moved to <14, 10>
+Moved to <14, 11>
+Moved to <14, 12>
+Moved to <14, 13>
+Moved to <14, 14>
+Moved to <15, 14>
+Moved to <15, 13>
+Moved to <15, 12>
+Moved to <15, 11>
+Moved to <15, 10>
+Moved to <15, 9>
+Moved to <15, 8>
+Moved to <15, 7>
+Moved to <15, 6>
+Moved to <15, 5>
+Moved to <15, 4>
+Moved to <16, 4>
+Moved to <16, 5>
+Moved to <16, 6>
+Moved to <16, 7>
+Moved to <16, 8>
+Moved to <16, 9>
+Moved to <17, 9>
+Moved to <17, 8>
+Moved to <17, 7>
+Moved to <17, 6>
+Moved to <17, 5>
+Moved to <17, 4>
+Moved to <18, 4>
+Moved to <18, 5>
+Moved to <18, 6>
+Moved to <18, 7>
+Moved to <18, 8>
+Moved to <18, 9>
+Moved to <19, 9>
+Moved to <19, 8>
+Moved to <19, 7>
+Moved to <19, 6>
+Moved to <19, 5>
+Moved to <19, 4>
+Moved to <20, 4>
+Moved to <20, 5>
+Moved to <20, 6>
+Moved to <20, 7>
+Moved to <20, 8>
+Moved to <20, 9>
+Moved to <21, 9>
+Moved to <21, 8>
+Moved to <21, 7>
+Moved to <21, 6>
+Moved to <21, 5>
+Moved to <21, 4>
+Moved to <22, 4>
+Moved to <22, 5>
+Moved to <22, 6>
+Moved to <22, 7>
+Moved to <22, 8>
+Moved to <22, 9>
+Moved to <23, 9>
+Moved to <23, 8>
+Moved to <23, 7>
+Moved to <23, 6>
+Moved to <23, 5>
+Moved to <23, 4>
+Moved to <24, 4>
+Moved to <24, 5>
+Moved to <24, 6>
+Moved to <24, 7>
+Moved to <24, 8>
+Moved to <24, 9>
+Moved to <25, 9>
+Moved to <25, 8>
+Moved to <25, 7>
+Moved to <25, 6>
+Moved to <25, 5>
+Moved to <25, 4>
+Moved to <25, 3>
+Moved to <25, 2>
+Moved to <25, 1>
+Moved to <24, 1>
+Moved to <24, 2>
+Moved to <23, 2>
+Moved to <23, 1>
+Moved to <22, 1>
+Moved to <22, 2>
+Moved to <21, 2>
+Moved to <21, 1>
+Moved to <20, 1>
+Moved to <20, 2>
+Moved to <19, 2>
+Moved to <19, 1>
+Moved to <18, 1>
+Moved to <18, 2>
+Moved to <17, 2>
+Moved to <17, 1>
+Moved to <16, 1>
+Moved to <16, 2>
+Moved to <15, 2>
+Moved to <15, 1>
+Moved to <14, 1>
+Moved to <14, 2>
+Moved to <13, 2>
+Moved to <13, 1>
+Moved to <12, 1>
+Moved to <12, 2>
+Moved to <11, 2>
+Moved to <11, 1>
+Moved to <10, 1>
+Moved to <10, 2>
+Moved to <9, 2>
+Moved to <9, 1>
+Moved to <8, 1>
+Moved to <8, 2>
+Moved to <7, 2>
+Moved to <7, 1>
+Moved to <6, 1>
+Moved to <6, 2>
+Moved to <5, 2>
+Moved to <5, 1>
+Unable to move from <5, 1>
+Can move to <26, 1>
+Found path from <5, 1> to <25, 1> of length 20
+Moved to <6, 1>
+Moved to <7, 1>
+Moved to <8, 1>
+Moved to <9, 1>
+Moved to <10, 1>
+Moved to <11, 1>
+Moved to <12, 1>
+Moved to <13, 1>
+Moved to <14, 1>
+Moved to <15, 1>
+Moved to <16, 1>
+Moved to <17, 1>
+Moved to <18, 1>
+Moved to <19, 1>
+Moved to <20, 1>
+Moved to <21, 1>
+Moved to <22, 1>
+Moved to <23, 1>
+Moved to <24, 1>
+Moved to <25, 1>
+Moved to <26, 1>
+Moved to <26, 2>
+Moved to <26, 3>
+Moved to <26, 4>
+Moved to <26, 5>
+Moved to <26, 6>
+Moved to <26, 7>
+Moved to <26, 8>
+Moved to <26, 9>
+Moved to <27, 9>
+Moved to <27, 8>
+Moved to <27, 7>
+Moved to <27, 6>
+Moved to <27, 5>
+Moved to <27, 4>
+Moved to <27, 3>
+Moved to <27, 2>
+Moved to <27, 1>
+Moved to <28, 1>
+Moved to <28, 2>
+Moved to <28, 3>
+Moved to <28, 4>
+Moved to <28, 5>
+Moved to <28, 6>
+Moved to <28, 7>
+Moved to <28, 8>
+Moved to <28, 9>
+Moved to <28, 10>
+Moved to <28, 11>
+Moved to <28, 12>
+Moved to <28, 13>
+Moved to <28, 14>
+Moved to <28, 15>
+Moved to <28, 16>
+Moved to <28, 17>
+Moved to <28, 18>
+Moved to <28, 19>
+Moved to <28, 20>
+Moved to <28, 21>
+Moved to <28, 22>
+Moved to <28, 23>
+Moved to <28, 24>
+Moved to <28, 25>
+Moved to <28, 26>
+Moved to <28, 27>
+Moved to <28, 28>
+Moved to <28, 29>
+Moved to <28, 30>
+Moved to <28, 31>
+Moved to <27, 31>
+Moved to <27, 30>
+Moved to <27, 29>
+Moved to <27, 28>
+Moved to <27, 27>
+Moved to <26, 27>
+Moved to <26, 28>
+Moved to <26, 29>
+Moved to <26, 30>
+Moved to <26, 31>
+Moved to <25, 31>
+Moved to <25, 30>
+Moved to <25, 29>
+Moved to <25, 28>
+Moved to <25, 27>
+Moved to <24, 27>
+Moved to <24, 28>
+Moved to <24, 29>
+Moved to <23, 29>
+Moved to <23, 28>
+Moved to <22, 28>
+Moved to <22, 29>
+Moved to <21, 29>
+Moved to <21, 28>
+Moved to <21, 27>
+Moved to <20, 27>
+Moved to <20, 28>
+Moved to <20, 29>
+Moved to <19, 29>
+Moved to <19, 28>
+Moved to <19, 27>
+Moved to <18, 27>
+Moved to <18, 28>
+Moved to <18, 29>
+Moved to <17, 29>
+Moved to <17, 28>
+Moved to <17, 27>
+Moved to <16, 27>
+Moved to <16, 28>
+Moved to <16, 29>
+Unable to move from <16, 29>
+Can move to <22, 27>
+Found path from <16, 29> to <21, 27> of length 7
+Moved to <17, 29>
+Moved to <18, 29>
+Moved to <19, 29>
+Moved to <20, 29>
+Moved to <21, 29>
+Moved to <21, 28>
+Moved to <21, 27>
+Moved to <22, 27>
+Unable to move from <22, 27>
+Can move to <24, 31>
+Found path from <22, 27> to <25, 31> of length 7
+Moved to <22, 28>
+Moved to <23, 28>
+Moved to <24, 28>
+Moved to <25, 28>
+Moved to <25, 29>
+Moved to <25, 30>
+Moved to <25, 31>
+Moved to <24, 31>
+Moved to <23, 31>
+Moved to <22, 31>
+Moved to <21, 31>
+Moved to <20, 31>
+Moved to <19, 31>
+Moved to <18, 31>
+Moved to <17, 31>
+Moved to <16, 31>
+Moved to <15, 31>
+Moved to <14, 31>
+Moved to <13, 31>
+Moved to <12, 31>
+Moved to <11, 31>
+Moved to <10, 31>
+Moved to <9, 31>
+Moved to <8, 31>
+Moved to <7, 31>
+Moved to <6, 31>
+Moved to <5, 31>
+Unable to move from <5, 31>
+Can move to <29, 31>
+Found path from <5, 31> to <28, 31> of length 23
+Moved to <6, 31>
+Moved to <7, 31>
+Moved to <8, 31>
+Moved to <9, 31>
+Moved to <10, 31>
+Moved to <11, 31>
+Moved to <12, 31>
+Moved to <13, 31>
+Moved to <14, 31>
+Moved to <15, 31>
+Moved to <16, 31>
+Moved to <17, 31>
+Moved to <18, 31>
+Moved to <19, 31>
+Moved to <20, 31>
+Moved to <21, 31>
+Moved to <22, 31>
+Moved to <23, 31>
+Moved to <24, 31>
+Moved to <25, 31>
+Moved to <26, 31>
+Moved to <27, 31>
+Moved to <28, 31>
+Moved to <29, 31>
+Moved to <29, 30>
+Moved to <29, 29>
+Moved to <29, 28>
+Moved to <29, 27>
+Moved to <29, 26>
+Moved to <29, 25>
+Moved to <29, 24>
+Moved to <29, 23>
+Moved to <29, 22>
+Moved to <29, 21>
+Moved to <29, 20>
+Moved to <29, 19>
+Moved to <29, 18>
+Moved to <29, 17>
+Moved to <29, 16>
+Moved to <29, 15>
+Moved to <29, 14>
+Moved to <29, 13>
+Moved to <29, 12>
+Moved to <29, 11>
+Moved to <29, 10>
+Moved to <29, 9>
+Moved to <29, 8>
+Moved to <29, 7>
+Moved to <29, 6>
+Moved to <29, 5>
+Moved to <29, 4>
+Moved to <29, 3>
+Moved to <29, 2>
+Moved to <29, 1>
+Unable to move from <29, 1>
+Can move to <30, 31>
+Found path from <29, 1> to <29, 31> of length 30
+Moved to <29, 2>
+Moved to <29, 3>
+Moved to <29, 4>
+Moved to <29, 5>
+Moved to <29, 6>
+Moved to <29, 7>
+Moved to <29, 8>
+Moved to <29, 9>
+Moved to <29, 10>
+Moved to <29, 11>
+Moved to <29, 12>
+Moved to <29, 13>
+Moved to <29, 14>
+Moved to <29, 15>
+Moved to <29, 16>
+Moved to <29, 17>
+Moved to <29, 18>
+Moved to <29, 19>
+Moved to <29, 20>
+Moved to <29, 21>
+Moved to <29, 22>
+Moved to <29, 23>
+Moved to <29, 24>
+Moved to <29, 25>
+Moved to <29, 26>
+Moved to <29, 27>
+Moved to <29, 28>
+Moved to <29, 29>
+Moved to <29, 30>
+Moved to <29, 31>
+Moved to <30, 31>
+Moved to <31, 31>
+Moved to <31, 32>
+Moved to <31, 33>
+Moved to <31, 34>
+Moved to <31, 35>
+Moved to <31, 36>
+Moved to <31, 37>
+Moved to <31, 38>
+Moved to <30, 38>
+Moved to <29, 38>
+Moved to <28, 38>
+Moved to <27, 38>
+Moved to <26, 38>
+Moved to <25, 38>
+Moved to <24, 38>
+Moved to <23, 38>
+Moved to <22, 38>
+Moved to <21, 38>
+Moved to <20, 38>
+Moved to <19, 38>
+Moved to <18, 38>
+Moved to <17, 38>
+Moved to <16, 38>
+Moved to <15, 38>
+Moved to <14, 38>
+Moved to <13, 38>
+Moved to <12, 38>
+Moved to <11, 38>
+Moved to <10, 38>
+Moved to <9, 38>
+Moved to <8, 38>
+Moved to <7, 38>
+Moved to <6, 38>
+Moved to <5, 38>
+Moved to <4, 38>
+Congratulations! You have found a key! You now have 1/5 keys!
+Moved to <3, 38>
+Moved to <2, 38>
+Unable to move from <2, 38>
+Can move to <32, 38>
+Found path from <2, 38> to <31, 38> of length 29
+Moved to <3, 38>
+Moved to <4, 38>
+Moved to <5, 38>
+Moved to <6, 38>
+Moved to <7, 38>
+Moved to <8, 38>
+Moved to <9, 38>
+Moved to <10, 38>
+Moved to <11, 38>
+Moved to <12, 38>
+Moved to <13, 38>
+Moved to <14, 38>
+Moved to <15, 38>
+Moved to <16, 38>
+Moved to <17, 38>
+Moved to <18, 38>
+Moved to <19, 38>
+Moved to <20, 38>
+Moved to <21, 38>
+Moved to <22, 38>
+Moved to <23, 38>
+Moved to <24, 38>
+Moved to <25, 38>
+Moved to <26, 38>
+Moved to <27, 38>
+Moved to <28, 38>
+Moved to <29, 38>
+Moved to <30, 38>
+Moved to <31, 38>
+Moved to <32, 38>
+Moved to <32, 37>
+Moved to <32, 36>
+Moved to <32, 35>
+Moved to <32, 34>
+Moved to <32, 33>
+Moved to <32, 32>
+Moved to <32, 31>
+Moved to <32, 30>
+Moved to <32, 29>
+Moved to <32, 28>
+Moved to <32, 27>
+Moved to <32, 26>
+Moved to <32, 25>
+Moved to <32, 24>
+Moved to <32, 23>
+Moved to <32, 22>
+Moved to <32, 21>
+Moved to <32, 20>
+Moved to <32, 19>
+Moved to <32, 18>
+Moved to <32, 17>
+Moved to <32, 16>
+Moved to <32, 15>
+Moved to <32, 14>
+Moved to <32, 13>
+Moved to <32, 12>
+Moved to <32, 11>
+Moved to <32, 10>
+Moved to <32, 9>
+Moved to <32, 8>
+Moved to <32, 7>
+Moved to <32, 6>
+Moved to <32, 5>
+Moved to <32, 4>
+Moved to <32, 3>
+Moved to <32, 2>
+Moved to <32, 1>
+Moved to <31, 1>
+Moved to <31, 2>
+Moved to <31, 3>
+Moved to <31, 4>
+Moved to <31, 5>
+Moved to <31, 6>
+Moved to <31, 7>
+Moved to <31, 8>
+Moved to <31, 9>
+Moved to <31, 10>
+Moved to <31, 11>
+Moved to <31, 12>
+Moved to <31, 13>
+Moved to <31, 14>
+Moved to <31, 15>
+Moved to <31, 16>
+Moved to <31, 17>
+Moved to <31, 18>
+Moved to <31, 19>
+Moved to <31, 20>
+Moved to <31, 21>
+Moved to <31, 22>
+Moved to <31, 23>
+Moved to <31, 24>
+Moved to <31, 25>
+Moved to <31, 26>
+Moved to <31, 27>
+Moved to <31, 28>
+Moved to <31, 29>
+Moved to <31, 30>
+Unable to move from <31, 30>
+Can move to <33, 1>
+Found path from <31, 30> to <32, 1> of length 30
+Moved to <32, 30>
+Moved to <32, 29>
+Moved to <32, 28>
+Moved to <32, 27>
+Moved to <32, 26>
+Moved to <32, 25>
+Moved to <32, 24>
+Moved to <32, 23>
+Moved to <32, 22>
+Moved to <32, 21>
+Moved to <32, 20>
+Moved to <32, 19>
+Moved to <32, 18>
+Moved to <32, 17>
+Moved to <32, 16>
+Moved to <32, 15>
+Moved to <32, 14>
+Moved to <32, 13>
+Moved to <32, 12>
+Moved to <32, 11>
+Moved to <32, 10>
+Moved to <32, 9>
+Moved to <32, 8>
+Moved to <32, 7>
+Moved to <32, 6>
+Moved to <32, 5>
+Moved to <32, 4>
+Moved to <32, 3>
+Moved to <32, 2>
+Moved to <32, 1>
+Moved to <33, 1>
+Moved to <33, 2>
+Moved to <33, 3>
+Moved to <33, 4>
+Moved to <33, 5>
+Moved to <33, 6>
+Moved to <33, 7>
+Moved to <33, 8>
+Moved to <33, 9>
+Moved to <33, 10>
+Moved to <33, 11>
+Moved to <33, 12>
+Moved to <33, 13>
+Moved to <33, 14>
+Moved to <33, 15>
+Moved to <33, 16>
+Moved to <33, 17>
+Moved to <33, 18>
+Moved to <33, 19>
+Moved to <33, 20>
+Moved to <33, 21>
+Moved to <33, 22>
+Moved to <33, 23>
+Moved to <33, 24>
+Moved to <33, 25>
+Moved to <33, 26>
+Moved to <33, 27>
+Moved to <33, 28>
+Moved to <33, 29>
+Moved to <33, 30>
+Moved to <33, 31>
+Moved to <33, 32>
+Moved to <33, 33>
+Moved to <33, 34>
+Moved to <33, 35>
+Moved to <33, 36>
+Moved to <33, 37>
+Moved to <33, 38>
+Moved to <34, 38>
+Moved to <34, 37>
+Moved to <34, 36>
+Moved to <34, 35>
+Moved to <34, 34>
+Moved to <34, 33>
+Moved to <34, 32>
+Moved to <34, 31>
+Moved to <34, 30>
+Moved to <34, 29>
+Moved to <34, 28>
+Moved to <34, 27>
+Moved to <34, 26>
+Moved to <34, 25>
+Moved to <34, 24>
+Moved to <34, 23>
+Moved to <34, 22>
+Moved to <34, 21>
+Moved to <34, 20>
+Moved to <34, 19>
+Moved to <34, 18>
+Moved to <34, 17>
+Moved to <34, 16>
+Moved to <34, 15>
+Moved to <34, 14>
+Moved to <34, 13>
+Moved to <34, 12>
+Moved to <34, 11>
+Moved to <34, 10>
+Moved to <34, 9>
+Moved to <34, 8>
+Moved to <34, 7>
+Moved to <34, 6>
+Moved to <34, 5>
+Moved to <34, 4>
+Moved to <34, 3>
+Moved to <34, 2>
+Moved to <34, 1>
+Moved to <35, 1>
+Congratulations! You have found a key! You now have 2/5 keys!
+Moved to <36, 1>
+Moved to <36, 2>
+Moved to <36, 3>
+Moved to <36, 4>
+Moved to <36, 5>
+Moved to <36, 6>
+Moved to <36, 7>
+Moved to <36, 8>
+Moved to <36, 9>
+Moved to <36, 10>
+Moved to <36, 11>
+Moved to <36, 12>
+Moved to <36, 13>
+Moved to <36, 14>
+Moved to <36, 15>
+Moved to <36, 16>
+Moved to <36, 17>
+Moved to <36, 18>
+Moved to <36, 19>
+Moved to <36, 20>
+Moved to <36, 21>
+Moved to <36, 22>
+Moved to <36, 23>
+Moved to <36, 24>
+Moved to <36, 25>
+Moved to <36, 26>
+Moved to <36, 27>
+Moved to <36, 28>
+Moved to <36, 29>
+Moved to <36, 30>
+Moved to <36, 31>
+Moved to <36, 32>
+Moved to <36, 33>
+Moved to <36, 34>
+Moved to <36, 35>
+Congratulations! You have found a key! You now have 3/5 keys!
+Moved to <36, 36>
+Moved to <36, 37>
+Moved to <36, 38>
+Moved to <35, 38>
+Moved to <35, 37>
+Moved to <35, 36>
+Moved to <35, 35>
+Moved to <35, 34>
+Moved to <35, 33>
+Moved to <35, 32>
+Moved to <35, 31>
+Moved to <35, 30>
+Moved to <35, 29>
+Moved to <35, 28>
+Moved to <35, 27>
+Moved to <35, 26>
+Moved to <35, 25>
+Unable to move from <35, 25>
+Can move to <37, 38>
+Found path from <35, 25> to <36, 38> of length 14
+Moved to <36, 25>
+Moved to <36, 26>
+Moved to <36, 27>
+Moved to <36, 28>
+Moved to <36, 29>
+Moved to <36, 30>
+Moved to <36, 31>
+Moved to <36, 32>
+Moved to <36, 33>
+Moved to <36, 34>
+Moved to <36, 35>
+Moved to <36, 36>
+Moved to <36, 37>
+Moved to <36, 38>
+Moved to <37, 38>
+Moved to <37, 37>
+Moved to <37, 36>
+Moved to <37, 35>
+Moved to <37, 34>
+Moved to <37, 33>
+Moved to <37, 32>
+Moved to <37, 31>
+Moved to <38, 31>
+Moved to <38, 32>
+Moved to <38, 33>
+Moved to <38, 34>
+Moved to <38, 35>
+Moved to <38, 36>
+Moved to <38, 37>
+Moved to <38, 38>
+Unable to move from <38, 38>
+Can move to <38, 30>
+Found path from <38, 38> to <38, 31> of length 7
+Moved to <38, 37>
+Moved to <38, 36>
+Moved to <38, 35>
+Moved to <38, 34>
+Moved to <38, 33>
+Moved to <38, 32>
+Moved to <38, 31>
+Moved to <38, 30>
+Moved to <38, 29>
+Moved to <38, 28>
+Moved to <38, 27>
+Moved to <38, 26>
+Moved to <38, 25>
+Moved to <38, 24>
+Moved to <38, 23>
+Moved to <38, 22>
+Moved to <38, 21>
+Moved to <38, 20>
+Moved to <38, 19>
+Moved to <38, 18>
+Moved to <38, 17>
+Moved to <38, 16>
+Moved to <38, 15>
+Moved to <38, 14>
+Moved to <38, 13>
+Moved to <38, 12>
+Moved to <38, 11>
+Moved to <38, 10>
+Moved to <38, 9>
+Moved to <38, 8>
+Moved to <38, 7>
+Moved to <38, 6>
+Moved to <38, 5>
+Moved to <38, 4>
+Moved to <38, 3>
+Moved to <38, 2>
+Moved to <38, 1>
+Unable to move from <38, 1>
+Can move to <35, 4>
+Found path from <38, 1> to <36, 4> of length 59
+Moved to <38, 2>
+Moved to <38, 3>
+Moved to <38, 4>
+Moved to <38, 5>
+Moved to <38, 6>
+Moved to <38, 7>
+Moved to <38, 8>
+Moved to <38, 9>
+Moved to <38, 10>
+Moved to <38, 11>
+Moved to <38, 12>
+Moved to <38, 13>
+Moved to <38, 14>
+Moved to <38, 15>
+Moved to <38, 16>
+Moved to <38, 17>
+Moved to <38, 18>
+Moved to <38, 19>
+Moved to <38, 20>
+Moved to <38, 21>
+Moved to <38, 22>
+Moved to <38, 23>
+Moved to <38, 24>
+Moved to <38, 25>
+Moved to <38, 26>
+Moved to <38, 27>
+Moved to <38, 28>
+Moved to <38, 29>
+Moved to <38, 30>
+Moved to <38, 31>
+Moved to <37, 31>
+Moved to <36, 31>
+Moved to <36, 30>
+Moved to <36, 29>
+Moved to <36, 28>
+Moved to <36, 27>
+Moved to <36, 26>
+Moved to <36, 25>
+Moved to <36, 24>
+Moved to <36, 23>
+Moved to <36, 22>
+Moved to <36, 21>
+Moved to <36, 20>
+Moved to <36, 19>
+Moved to <36, 18>
+Moved to <36, 17>
+Moved to <36, 16>
+Moved to <36, 15>
+Moved to <36, 14>
+Moved to <36, 13>
+Moved to <36, 12>
+Moved to <36, 11>
+Moved to <36, 10>
+Moved to <36, 9>
+Moved to <36, 8>
+Moved to <36, 7>
+Moved to <36, 6>
+Moved to <36, 5>
+Moved to <36, 4>
+Moved to <35, 4>
+Unable to move from <35, 4>
+Can move to <35, 2>
+Found path from <35, 4> to <36, 2> of length 3
+Moved to <36, 4>
+Moved to <36, 3>
+Moved to <36, 2>
+Moved to <35, 2>
+Unable to move from <35, 2>
+Can move to <30, 36>
+Found path from <35, 2> to <31, 36> of length 38
+Moved to <34, 2>
+Moved to <33, 2>
+Moved to <32, 2>
+Moved to <31, 2>
+Moved to <31, 3>
+Moved to <31, 4>
+Moved to <31, 5>
+Moved to <31, 6>
+Moved to <31, 7>
+Moved to <31, 8>
+Moved to <31, 9>
+Moved to <31, 10>
+Moved to <31, 11>
+Moved to <31, 12>
+Moved to <31, 13>
+Moved to <31, 14>
+Moved to <31, 15>
+Moved to <31, 16>
+Moved to <31, 17>
+Moved to <31, 18>
+Moved to <31, 19>
+Moved to <31, 20>
+Moved to <31, 21>
+Moved to <31, 22>
+Moved to <31, 23>
+Moved to <31, 24>
+Moved to <31, 25>
+Moved to <31, 26>
+Moved to <31, 27>
+Moved to <31, 28>
+Moved to <31, 29>
+Moved to <31, 30>
+Moved to <31, 31>
+Moved to <31, 32>
+Moved to <31, 33>
+Moved to <31, 34>
+Moved to <31, 35>
+Moved to <31, 36>
+Moved to <30, 36>
+Moved to <30, 35>
+Moved to <30, 34>
+Moved to <30, 33>
+Moved to <29, 33>
+Moved to <29, 34>
+Moved to <29, 35>
+Moved to <29, 36>
+Moved to <28, 36>
+Moved to <28, 35>
+Moved to <28, 34>
+Moved to <28, 33>
+Moved to <27, 33>
+Moved to <27, 34>
+Moved to <26, 34>
+Moved to <26, 33>
+Moved to <25, 33>
+Moved to <25, 34>
+Moved to <24, 34>
+Moved to <24, 33>
+Moved to <23, 33>
+Moved to <23, 34>
+Moved to <22, 34>
+Moved to <22, 33>
+Moved to <21, 33>
+Moved to <21, 34>
+Moved to <20, 34>
+Moved to <20, 33>
+Moved to <19, 33>
+Moved to <19, 34>
+Moved to <18, 34>
+Moved to <18, 33>
+Moved to <17, 33>
+Moved to <17, 34>
+Moved to <16, 34>
+Moved to <16, 33>
+Moved to <15, 33>
+Moved to <15, 34>
+Moved to <15, 35>
+Moved to <15, 36>
+Moved to <14, 36>
+Moved to <14, 35>
+Moved to <14, 34>
+Moved to <14, 33>
+Moved to <13, 33>
+Moved to <13, 34>
+Moved to <13, 35>
+Moved to <13, 36>
+Moved to <12, 36>
+Moved to <12, 35>
+Moved to <12, 34>
+Moved to <12, 33>
+Moved to <11, 33>
+Moved to <11, 34>
+Moved to <11, 35>
+Moved to <11, 36>
+Moved to <10, 36>
+Moved to <10, 35>
+Moved to <10, 34>
+Moved to <10, 33>
+Moved to <9, 33>
+Moved to <9, 34>
+Moved to <9, 35>
+Moved to <9, 36>
+Moved to <8, 36>
+Moved to <8, 35>
+Moved to <8, 34>
+Moved to <8, 33>
+Moved to <7, 33>
+Moved to <7, 34>
+Moved to <7, 35>
+Moved to <7, 36>
+Moved to <6, 36>
+Moved to <6, 35>
+Moved to <6, 34>
+Moved to <6, 33>
+Moved to <5, 33>
+Moved to <5, 34>
+Moved to <5, 35>
+Moved to <5, 36>
+Moved to <4, 36>
+Moved to <4, 35>
+Moved to <4, 34>
+Moved to <4, 33>
+Moved to <3, 33>
+Moved to <3, 34>
+Moved to <3, 35>
+Moved to <3, 36>
+Moved to <2, 36>
+Moved to <2, 35>
+Moved to <2, 34>
+Moved to <2, 33>
+Moved to <1, 33>
+Moved to <1, 34>
+Moved to <1, 35>
+Moved to <1, 36>
+Unable to move from <1, 36>
+Can move to <16, 36>
+Found path from <1, 36> to <15, 36> of length 14
+Moved to <2, 36>
+Moved to <3, 36>
+Moved to <4, 36>
+Moved to <5, 36>
+Moved to <6, 36>
+Moved to <7, 36>
+Moved to <8, 36>
+Moved to <9, 36>
+Moved to <10, 36>
+Moved to <11, 36>
+Moved to <12, 36>
+Moved to <13, 36>
+Moved to <14, 36>
+Moved to <15, 36>
+Moved to <16, 36>
+Moved to <17, 36>
+Moved to <18, 36>
+Moved to <19, 36>
+Moved to <20, 36>
+Moved to <21, 36>
+Moved to <22, 36>
+Moved to <23, 36>
+Moved to <24, 36>
+Moved to <25, 36>
+Moved to <26, 36>
+Moved to <27, 36>
+Unable to move from <27, 36>
+Can move to <27, 25>
+Found path from <27, 36> to <28, 25> of length 18
+Moved to <28, 36>
+Moved to <29, 36>
+Moved to <30, 36>
+Moved to <31, 36>
+Moved to <31, 35>
+Moved to <31, 34>
+Moved to <31, 33>
+Moved to <31, 32>
+Moved to <31, 31>
+Moved to <30, 31>
+Moved to <29, 31>
+Moved to <28, 31>
+Moved to <28, 30>
+Moved to <28, 29>
+Moved to <28, 28>
+Moved to <28, 27>
+Moved to <28, 26>
+Moved to <28, 25>
+Moved to <27, 25>
+Moved to <27, 24>
+Moved to <27, 23>
+Moved to <27, 22>
+Moved to <27, 21>
+Moved to <27, 20>
+Moved to <27, 19>
+Moved to <27, 18>
+Moved to <27, 17>
+Moved to <27, 16>
+Moved to <27, 15>
+Moved to <27, 14>
+Moved to <27, 13>
+Moved to <27, 12>
+Moved to <27, 11>
+Unable to move from <27, 11>
+Can move to <26, 19>
+Found path from <27, 11> to <27, 19> of length 8
+Moved to <27, 12>
+Moved to <27, 13>
+Moved to <27, 14>
+Moved to <27, 15>
+Moved to <27, 16>
+Moved to <27, 17>
+Moved to <27, 18>
+Moved to <27, 19>
+Moved to <26, 19>
+Moved to <26, 20>
+Moved to <26, 21>
+Moved to <26, 22>
+Moved to <26, 23>
+Moved to <26, 24>
+Moved to <26, 25>
+Moved to <25, 25>
+Congratulations! You have found a key! You now have 4/5 keys!
+Moved to <24, 25>
+Moved to <24, 24>
+Moved to <24, 23>
+Moved to <24, 22>
+Moved to <24, 21>
+Moved to <24, 20>
+Moved to <24, 19>
+Moved to <24, 18>
+Moved to <24, 17>
+Moved to <24, 16>
+Moved to <25, 16>
+Moved to <25, 17>
+Moved to <25, 18>
+Moved to <25, 19>
+Moved to <25, 20>
+Moved to <25, 21>
+Moved to <25, 22>
+Moved to <25, 23>
+Moved to <25, 24>
+Unable to move from <25, 24>
+Can move to <25, 15>
+Found path from <25, 24> to <25, 16> of length 8
+Moved to <25, 23>
+Moved to <25, 22>
+Moved to <25, 21>
+Moved to <25, 20>
+Moved to <25, 19>
+Moved to <25, 18>
+Moved to <25, 17>
+Moved to <25, 16>
+Moved to <25, 15>
+Moved to <25, 14>
+Moved to <25, 13>
+Moved to <25, 12>
+Moved to <25, 11>
+Moved to <24, 11>
+Moved to <24, 12>
+Moved to <24, 13>
+Moved to <24, 14>
+Moved to <23, 14>
+Congratulations! You have found a key! You now have 5/5 keys!
+Moved to <22, 14>
+Heading to the exit!
+Found path from <22, 14> to <1, 38> of length 63
+Moved to <23, 14>
+Moved to <24, 14>
+Moved to <25, 14>
+Moved to <25, 15>
+Moved to <25, 16>
+Moved to <25, 17>
+Moved to <25, 18>
+Moved to <25, 19>
+Moved to <26, 19>
+Moved to <27, 19>
+Moved to <28, 19>
+Moved to <29, 19>
+Moved to <29, 20>
+Moved to <29, 21>
+Moved to <29, 22>
+Moved to <29, 23>
+Moved to <29, 24>
+Moved to <29, 25>
+Moved to <29, 26>
+Moved to <29, 27>
+Moved to <29, 28>
+Moved to <29, 29>
+Moved to <29, 30>
+Moved to <29, 31>
+Moved to <30, 31>
+Moved to <31, 31>
+Moved to <31, 32>
+Moved to <31, 33>
+Moved to <31, 34>
+Moved to <31, 35>
+Moved to <31, 36>
+Moved to <31, 37>
+Moved to <31, 38>
+Moved to <30, 38>
+Moved to <29, 38>
+Moved to <28, 38>
+Moved to <27, 38>
+Moved to <26, 38>
+Moved to <25, 38>
+Moved to <24, 38>
+Moved to <23, 38>
+Moved to <22, 38>
+Moved to <21, 38>
+Moved to <20, 38>
+Moved to <19, 38>
+Moved to <18, 38>
+Moved to <17, 38>
+Moved to <16, 38>
+Moved to <15, 38>
+Moved to <14, 38>
+Moved to <13, 38>
+Moved to <12, 38>
+Moved to <11, 38>
+Moved to <10, 38>
+Moved to <9, 38>
+Moved to <8, 38>
+Moved to <7, 38>
+Moved to <6, 38>
+Moved to <5, 38>
+Moved to <4, 38>
+Moved to <3, 38>
+Moved to <2, 38>
+Moved to <1, 38>
+0000000000000000000000000000000000000000
+0111111111111111111111111111111101111020
+0111111111111111111111111111111101111010
+0111111111111111111111111111111101111010
+0111100000000000000000000111111101111010
+0110111111111110111111111111110101111010
+0110111111111110111111111111110101111010
+0110111111111110111111111111110101111010
+0110111111111110111111111111110101111010
+0110111111000000000111111111110101111010
+0110111111111110111111111111110101111010
+0110111111111110111111111111110101111010
+0110111111111110111111111111110101111010
+0110111111111110111111111111110101111010
+0110111111111110111111111111110101111010
+0110111111111110111111111111110101111010
+0110111111011110111111111101110101101010
+0110111111011110111111111101110101101010
+0110111111011110111111111101110101101010
+0110111111011110111111111101110101101010
+0110111111011110111111111101110101101010
+0110111111011110111111111101110101101010
+0110111111011010111111111101110101101010
+0110111111011110000000000000110101101010
+0110111111011110111111111101110101101010
+0111111111011111111111111101111101101010
+0111111111000000000111111101111101101010
+0111111111011111111111111101111101101010
+0111111111111111111111111111111101111010
+0111111111111111111111111111111101111010
+0000000000000000000000000000000101111010
+0111111111111111111111111111111111111110
+0111111111111111111111111111111111111110
+0111111111111111111111111111111111111110
+0111111111111111111111111111111111111110
+0110100000000000000000000111111111111110
+0111111111111111111111111111111111111110
+0000000000000000000000000000000111111110
+0111111111111111111111111111111111111110
+0000000000000000000000000000000000000000
+----------------------------------------
+You solved the maze in 1479 steps!
+
+Running maze Test case 8...
+Moved to <1, 1>
+Moved to <1, 2>
+Moved to <1, 3>
+Moved to <1, 4>
+Moved to <1, 5>
+Moved to <1, 6>
+Moved to <1, 7>
+Moved to <1, 8>
+Moved to <1, 9>
+Moved to <1, 10>
+Moved to <1, 11>
+Moved to <1, 12>
+Moved to <1, 13>
+Moved to <1, 14>
+Moved to <1, 15>
+Moved to <1, 16>
+Moved to <1, 17>
+Moved to <1, 18>
+Moved to <1, 19>
+Moved to <1, 20>
+Moved to <1, 21>
+Moved to <1, 22>
+Moved to <1, 23>
+Moved to <1, 24>
+Moved to <1, 25>
+Moved to <1, 26>
+Moved to <1, 27>
+Congratulations! You have found a key! You now have 1/1 keys!
+Moved to <1, 28>
+Moved to <1, 29>
+Moved to <1, 30>
+Moved to <1, 31>
+Moved to <1, 32>
+Moved to <1, 33>
+Moved to <1, 34>
+Moved to <1, 35>
+Moved to <1, 36>
+Moved to <1, 37>
+Moved to <1, 38>
+Moved to <1, 39>
+Moved to <1, 40>
+Moved to <1, 41>
+Moved to <1, 42>
+Moved to <1, 43>
+Moved to <1, 44>
+Moved to <1, 45>
+Moved to <1, 46>
+Moved to <1, 47>
+Moved to <1, 48>
+Moved to <1, 49>
+Moved to <1, 50>
+Moved to <1, 51>
+Moved to <1, 52>
+Moved to <1, 53>
+Moved to <1, 54>
+Moved to <1, 55>
+Moved to <1, 56>
+Moved to <1, 57>
+Moved to <1, 58>
+Moved to <1, 59>
+Moved to <1, 60>
+Moved to <1, 61>
+Moved to <1, 62>
+Moved to <1, 63>
+Moved to <1, 64>
+Moved to <1, 65>
+Moved to <1, 66>
+Moved to <1, 67>
+Moved to <1, 68>
+Moved to <1, 69>
+Moved to <1, 70>
+Moved to <1, 71>
+Moved to <1, 72>
+Moved to <1, 73>
+Moved to <1, 74>
+Moved to <1, 75>
+Moved to <1, 76>
+Moved to <1, 77>
+Moved to <1, 78>
+Moved to <1, 79>
+Moved to <1, 80>
+Moved to <1, 81>
+Moved to <1, 82>
+Moved to <1, 83>
+Moved to <1, 84>
+Moved to <1, 85>
+Moved to <1, 86>
+Moved to <1, 87>
+Moved to <1, 88>
+Moved to <1, 89>
+Moved to <1, 90>
+Moved to <2, 90>
+Moved to <3, 90>
+Moved to <4, 90>
+Moved to <4, 89>
+Moved to <4, 88>
+Moved to <4, 87>
+Moved to <4, 86>
+Moved to <4, 85>
+Moved to <4, 84>
+Moved to <4, 83>
+Moved to <4, 82>
+Moved to <4, 81>
+Moved to <4, 80>
+Moved to <4, 79>
+Moved to <4, 78>
+Moved to <4, 77>
+Moved to <4, 76>
+Moved to <4, 75>
+Moved to <4, 74>
+Moved to <4, 73>
+Moved to <4, 72>
+Moved to <4, 71>
+Moved to <4, 70>
+Moved to <4, 69>
+Moved to <4, 68>
+Moved to <4, 67>
+Moved to <4, 66>
+Moved to <4, 65>
+Moved to <4, 64>
+Moved to <4, 63>
+Moved to <4, 62>
+Moved to <4, 61>
+Moved to <4, 60>
+Moved to <4, 59>
+Moved to <4, 58>
+Moved to <4, 57>
+Moved to <4, 56>
+Moved to <4, 55>
+Moved to <4, 54>
+Moved to <4, 53>
+Moved to <4, 52>
+Moved to <4, 51>
+Moved to <4, 50>
+Moved to <4, 49>
+Moved to <4, 48>
+Moved to <4, 47>
+Moved to <4, 46>
+Moved to <4, 45>
+Moved to <4, 44>
+Moved to <4, 43>
+Moved to <4, 42>
+Moved to <4, 41>
+Moved to <4, 40>
+Moved to <4, 39>
+Moved to <4, 38>
+Moved to <4, 37>
+Moved to <4, 36>
+Moved to <4, 35>
+Moved to <4, 34>
+Moved to <4, 33>
+Moved to <4, 32>
+Moved to <4, 31>
+Moved to <4, 30>
+Moved to <4, 29>
+Moved to <4, 28>
+Moved to <4, 27>
+Moved to <4, 26>
+Moved to <4, 25>
+Moved to <4, 24>
+Moved to <4, 23>
+Moved to <4, 22>
+Moved to <4, 21>
+Moved to <4, 20>
+Moved to <4, 19>
+Moved to <4, 18>
+Moved to <4, 17>
+Moved to <4, 16>
+Moved to <4, 15>
+Moved to <4, 14>
+Moved to <4, 13>
+Moved to <4, 12>
+Moved to <4, 11>
+Moved to <4, 10>
+Moved to <4, 9>
+Moved to <4, 8>
+Moved to <4, 7>
+Moved to <4, 6>
+Moved to <4, 5>
+Moved to <4, 4>
+Moved to <4, 3>
+Moved to <4, 2>
+Heading to the exit!
+Found path from <4, 2> to <4, 1> of length 1
+Moved to <4, 1>
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+01111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110
+00001000100010000010000000010000100000000000000000000000000000000000000000000000000010000010
+00000010001000000000000010010000000000000000100000000000001000000000000000000000001000000010
+02111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110
+--------------------------------------------------------------------------------------------
+You solved the maze in 181 steps!
+
+Running maze Test case 9...
+Moved to <1, 4>
+Moved to <2, 4>
+Moved to <2, 5>
+Moved to <2, 6>
+Moved to <2, 7>
+Congratulations! You have found a key! You now have 1/3 keys!
+Moved to <2, 8>
+Unable to move from <2, 8>
+Can move to <2, 3>
+Found path from <2, 8> to <2, 4> of length 4
+Moved to <2, 7>
+Moved to <2, 6>
+Moved to <2, 5>
+Moved to <2, 4>
+Moved to <2, 3>
+Moved to <2, 2>
+Congratulations! You have found a key! You now have 2/3 keys!
+Moved to <2, 1>
+Unable to move from <2, 1>
+Can move to <3, 4>
+Found path from <2, 1> to <2, 4> of length 3
+Moved to <2, 2>
+Moved to <2, 3>
+Moved to <2, 4>
+Moved to <3, 4>
+Moved to <4, 4>
+Moved to <5, 4>
+Congratulations! You have found a key! You now have 3/3 keys!
+Moved to <5, 3>
+Unable to move from <5, 3>
+Can move to <6, 4>
+Found path from <5, 3> to <5, 4> of length 1
+Moved to <5, 4>
+Moved to <6, 4>
+Moved to <6, 5>
+Moved to <6, 6>
+Unable to move from <6, 6>
+Can move to <7, 4>
+Found path from <6, 6> to <6, 4> of length 2
+Moved to <6, 5>
+Moved to <6, 4>
+Moved to <7, 4>
+Moved to <8, 4>
+Moved to <9, 4>
+Heading to the exit!
+Found path from <9, 4> to <10, 4> of length 1
+Moved to <10, 4>
+0000000000
+0000100000
+0111111110
+0000100000
+0000100000
+0001100000
+0000111000
+0000100000
+0000100000
+0111100000
+0000200000
+----------
+You solved the maze in 29 steps!
+
+All mazes completed!
