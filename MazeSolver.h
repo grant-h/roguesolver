@@ -15,7 +15,7 @@
 #include <string.h>
 
 // Uncomment for a cool display
-//#define SHOWOFF
+#define SHOWOFF
 static int SPEED = 100000; // higher is slower (microseconds)
 
 typedef struct _pos {
