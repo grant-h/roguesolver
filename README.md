@@ -1,7 +1,16 @@
-# Maze Solver
+# Rogue-Like Solver
 
-Written for fun and for the love of ASCII mazes.
+Written for fun and for the love of ASCII.
 Problem taken from a friend.
+
+What's unique about this problem, is that you start out knowing *nothing* about the maze. Your avatar has to build a representation of the maze and progressively search for interesting tiles, such as exits and keys. Once you have found all the keys, you are able to finish the map. If you haven't found the exit, but have found all the keys, then you need to still search for the exit.
+
+My solution for this uses a stack-based backtracking solution that will record every action (left, right, up, down) taken and then determine the last best known location to travel to when no other unexplored tiles are nearby. It also uses dijkstra's path finding to efficiently travel to locations in the maze. This is easily noticable when all keys have been found and the player travels directly back to the found exit.
+
+## Demo!
+
+Check out the sweet ASCII in this ASCIInema demo:
+[![asciicast](https://asciinema.org/a/jWtX5IsB7bSIiIKippjUfXK6f.png)](https://asciinema.org/a/jWtX5IsB7bSIiIKippjUfXK6f)
 
 ## Problem Statement
 
